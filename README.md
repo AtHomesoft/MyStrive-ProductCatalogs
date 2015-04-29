@@ -1,1 +1,1 @@
-# MyStrive-ProductCatalogs
+# MyStrive Product Catalogs
