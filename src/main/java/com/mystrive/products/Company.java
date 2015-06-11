@@ -1,25 +1,31 @@
 package com.mystrive.products;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Company {
-    private String name;
-    private ArrayList<ProductCatalogInfo> productCatalogInfoList = new ArrayList<>();
+    private final String id;
+    private final String name;
+    private final Map<String, ProductCatalogInfo> productCatalogInfoList = new HashMap<>();
 
-    public Company(String name) {
-        this.name = name;
+    public Company(String id) {
+        this.id = id;
+        this.name = formatIdAsName(id);
+    }
+
+    private String formatIdAsName(String id) {
+        return id.replace('_', ' ');
+    }
+
+    public String getId() {
+        return id;
     }
 
     public String getName() {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public List<ProductCatalogInfo> getProductCatalogInfoList() {
+    public Map<String, ProductCatalogInfo> getProductCatalogInfoList() {
         return productCatalogInfoList;
     }
 }
