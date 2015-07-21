@@ -1,27 +1,31 @@
 package com.mystrive.products;
 
 public class ProductCatalogInfo {
-    private String locale;
-    private double version;
+    private final String id;
+    private final String locale;
+    private final double version;
+    private Business business;
 
-    public ProductCatalogInfo(String locale, double version) {
+    public ProductCatalogInfo(String id, Business business, String locale, double version) {
+        this.id = id;
+        this.business = business;
         this.locale = locale;
         this.version = version;
+    }
+
+    public String getId() {
+        return id;
+    }
+
+    public Business getBusiness() {
+        return business;
     }
 
     public String getLocale() {
         return locale;
     }
 
-    public void setLocale(String locale) {
-        this.locale = locale;
-    }
-
     public double getVersion() {
         return version;
-    }
-
-    public void setVersion(double version) {
-        this.version = version;
     }
 }

@@ -4,7 +4,6 @@ import org.junit.Before;
 import org.junit.Test;
 
 import java.io.File;
-import java.util.List;
 import java.util.Map;
 
 import static org.junit.Assert.*;
@@ -27,19 +26,19 @@ public class ProductCatalogsManagerTest {
     }
 
     @Test
-    public void testGetCompanies() throws Exception {
-        Map<String, Company> companies = manager.getCompanies();
-        assertEquals("Incorrect number of companies found!", 1, companies.size());
-        assertMaryKay(companies.get("Mary_Kay"));
+    public void testGetProductCatalogInfo() throws Exception {
+        Map<String, ProductCatalogInfo> catalogInfos = manager.getProductCatalogInfos();
+        String key = manager.buildProductCatalogId(CompanyCatalog.MaryKay.KEY, CompanyCatalog.MaryKay.USA);
+        assertTrue("Did not find Mary Kay USA product catalog.", catalogInfos.containsKey(key));
+        ProductCatalogInfo catalogInfo = catalogInfos.get(key);
+        assertMaryKayUSA(catalogInfo);
     }
 
-    private void assertMaryKay(Company company) {
-        assertEquals("Incorrect value for id.", "Mary_Kay", company.getId());
-        assertEquals("Incorrect value for name.", "Mary Kay", company.getName());
-
-        Map<String, ProductCatalogInfo> infoList = company.getProductCatalogInfoList();
-        assertEquals("Incorrect number of catalogs!", 1, infoList.size());
-        assertProductCatalogInfo("USA", 1, infoList.get("USA"));
+    private void assertMaryKayUSA(ProductCatalogInfo catalogInfo) {
+        Business business = catalogInfo.getBusiness();
+        assertEquals("Incorrect value for id.", CompanyCatalog.MaryKay.KEY, business.getId());
+        assertEquals("Incorrect value for name.", "Mary Kay", business.getName());
+        assertProductCatalogInfo(CompanyCatalog.MaryKay.USA, 1, catalogInfo);
     }
 
     private void assertProductCatalogInfo(String locale, double version, ProductCatalogInfo catalogInfo) {

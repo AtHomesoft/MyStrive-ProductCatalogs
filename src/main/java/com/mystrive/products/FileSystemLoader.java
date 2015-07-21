@@ -24,30 +24,33 @@ public class FileSystemLoader implements ProductCatalogsLoader {
 
         if (companyDirs != null) {
             for (String companyDir : companyDirs) {
-                Company company = new Company(companyDir);
-                manager.getCompanies().put(companyDir, company);
+                Business business = new Business(companyDir, formatDirectoryAsName(companyDir));
                 File catalogFile = new File(catalogsDir, companyDir);
-                loadCompanyProductCatalogLocales(company, catalogFile, manager);
+                loadCompanyProductCatalogLocales(business, catalogFile, manager);
             }
         }
     }
 
-    private void loadCompanyProductCatalogLocales(Company company, File companyDir, ProductCatalogsManager manager) {
+    private String formatDirectoryAsName(String id) {
+        return id.replace('_', ' ');
+    }
+
+    private void loadCompanyProductCatalogLocales(Business business, File companyDir, ProductCatalogsManager manager) {
         String[] catalogFiles = companyDir.list((dir, name) -> name.endsWith(".csv"));
 
         if (catalogFiles != null) {
             for (String catalogFile : catalogFiles) {
                 File csvFile = new File(companyDir, catalogFile);
-                loadProductCatalog(company, csvFile, manager);
+                loadProductCatalog(business, csvFile, manager);
             }
         }
     }
 
-    private void loadProductCatalog(Company company, File catalogFile, ProductCatalogsManager manager) {
+    private void loadProductCatalog(Business business, File catalogFile, ProductCatalogsManager manager) {
         String locale = FilenameUtils.getBaseName(catalogFile.getName());
-        manager.getProductCatalog(company.getId(), locale);
+        manager.getProductCatalog(business.getId(), locale);
 
-        if (!manager.containsProductCatalog(company.getId(), locale)) {
+        if (!manager.containsProductCatalog(business.getId(), locale)) {
             try (FileInputStream fileInputStream = new FileInputStream(catalogFile);
                     InputStreamReader isr = new InputStreamReader(fileInputStream, StandardCharsets.UTF_8);
                     BufferedReader reader = new BufferedReader(isr);
@@ -56,20 +59,24 @@ public class FileSystemLoader implements ProductCatalogsLoader {
                 double version = Double.parseDouble(readVersionFromLine(reader.readLine()));
                 reader.readLine(); // Skip header row
 
-                ProductCatalog catalog = new ProductCatalog(locale, version);
+                String catalogId = manager.buildProductCatalogId(business.getId(), locale);
+                ProductCatalogInfo catalogInfo = new ProductCatalogInfo(catalogId, business, locale, version);
+                manager.getProductCatalogInfos().put(catalogInfo.getId(), catalogInfo);
+
+                ProductCatalog catalog = new ProductCatalog(catalogId, business, locale, version);
+
                 Product product;
 
                 do {
-                    String[] headers = { Product.NUMBER, Product.NAME, Product.RETAIL, Product.SECTION,
-                            Product.CATEGORY, Product.DISCONTINUED, Product.TAXABLE };
+                    String[] headers = { Product.NUMBER, Product.NAME, Product.RETAIL, Product.WHOLESALE,
+                            Product.SECTION, Product.CATEGORY, Product.DISCONTINUED, Product.TAXABLE };
                     CellProcessor[] processors = { new ProductNumberProcessor(), null, new ParseDouble(),
-                            new ParseInt(), null, new ParseBool(), new ParseBool() };
+                            new ParseDouble(), new ParseInt(), null, new ParseBool(), new ParseBool() };
                     product = csvBeanReader.read(Product.class, headers, processors);
                     catalog.getProducts().add(product);
                 } while (product != null);
 
-                company.getProductCatalogInfoList().put(locale, catalog);
-                manager.putProductCatalog(company.getId(), locale, catalog);
+                manager.getProductCatalogs().put(catalog.getId(), catalog);
             } catch (IOException ioe) {
                 ioe.printStackTrace();
             }

@@ -4,6 +4,7 @@ public class Product {
     public static final String NUMBER = "Number";
     public static final String NAME = "Name";
     public static final String RETAIL = "Retail";
+    public static final String WHOLESALE = "Wholesale";
     public static final String SECTION = "Section";
     public static final String CATEGORY = "Category";
     public static final String DISCONTINUED = "Discontinued";
@@ -12,6 +13,7 @@ public class Product {
     private String number;
     private String name;
     private double retail;
+    private double wholesale;
     private int section;
     private String category;
     private boolean discontinued;
@@ -71,5 +73,13 @@ public class Product {
 
     public void setTaxable(boolean taxable) {
         this.taxable = taxable;
+    }
+
+    public double getWholesale() {
+        return wholesale;
+    }
+
+    public void setWholesale(double wholesale) {
+        this.wholesale = wholesale;
     }
 }
