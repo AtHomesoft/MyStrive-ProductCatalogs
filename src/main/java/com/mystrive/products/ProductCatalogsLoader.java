@@ -1,5 +1,5 @@
 package com.mystrive.products;
 
 public interface ProductCatalogsLoader {
-    void load(ProductCatalogsManager manager);
+    void load(ProductCatalogsManager manager) throws Exception;
 }

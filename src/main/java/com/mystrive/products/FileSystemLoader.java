@@ -1,17 +1,12 @@
 package com.mystrive.products;
 
 import org.apache.commons.io.FilenameUtils;
-import org.supercsv.cellprocessor.ParseBool;
-import org.supercsv.cellprocessor.ParseDouble;
-import org.supercsv.cellprocessor.ParseInt;
-import org.supercsv.cellprocessor.ift.CellProcessor;
-import org.supercsv.io.CsvBeanReader;
-import org.supercsv.prefs.CsvPreference;
 
-import java.io.*;
-import java.nio.charset.StandardCharsets;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
 
-public class FileSystemLoader implements ProductCatalogsLoader {
+public class FileSystemLoader extends CsvProductCatalogsLoader {
     private File catalogsDir;
 
     public FileSystemLoader(File catalogsDir) {
@@ -31,10 +26,6 @@ public class FileSystemLoader implements ProductCatalogsLoader {
         }
     }
 
-    private String formatDirectoryAsName(String id) {
-        return id.replace('_', ' ');
-    }
-
     private void loadCompanyProductCatalogLocales(Business business, File companyDir, ProductCatalogsManager manager) {
         String[] catalogFiles = companyDir.list((dir, name) -> name.endsWith(".csv"));
 
@@ -51,47 +42,12 @@ public class FileSystemLoader implements ProductCatalogsLoader {
         manager.getProductCatalog(business.getId(), locale);
 
         if (!manager.containsProductCatalog(business.getId(), locale)) {
-            try (FileInputStream fileInputStream = new FileInputStream(catalogFile);
-                    InputStreamReader isr = new InputStreamReader(fileInputStream, StandardCharsets.UTF_8);
-                    BufferedReader reader = new BufferedReader(isr);
-                    CsvBeanReader csvBeanReader = new CsvBeanReader(reader, CsvPreference.STANDARD_PREFERENCE)) {
-                reader.readLine(); // Skip version header
-                double version = Double.parseDouble(readVersionFromLine(reader.readLine()));
-                reader.readLine(); // Skip header row
-
-                String catalogId = manager.buildProductCatalogId(business.getId(), locale);
-                ProductCatalogInfo catalogInfo = new ProductCatalogInfo(catalogId, business, locale, version);
-                manager.getProductCatalogInfos().put(catalogInfo.getId(), catalogInfo);
-
-                ProductCatalog catalog = new ProductCatalog(catalogId, business, locale, version);
-
-                Product product;
-
-                do {
-                    String[] headers = { Product.NUMBER, Product.NAME, Product.RETAIL, Product.WHOLESALE,
-                            Product.SECTION, Product.CATEGORY, Product.DISCONTINUED, Product.TAXABLE };
-                    CellProcessor[] processors = { new ProductNumberProcessor(), null, new ParseDouble(),
-                            new ParseDouble(), new ParseInt(), null, new ParseBool(), new ParseBool() };
-                    product = csvBeanReader.read(Product.class, headers, processors);
-                    catalog.getProducts().add(product);
-                } while (product != null);
-
+            try (FileInputStream fileInputStream = new FileInputStream(catalogFile)) {
+                ProductCatalog catalog = readProductCatalog(fileInputStream, manager, business, locale);
                 manager.getProductCatalogs().put(catalog.getId(), catalog);
             } catch (IOException ioe) {
                 ioe.printStackTrace();
             }
         }
-    }
-
-    private String readVersionFromLine(String versionLine) {
-        StringBuilder version = new StringBuilder();
-
-        for (char character : versionLine.toCharArray()) {
-            if (Character.isDigit(character)) {
-                version.append(character);
-            }
-        }
-
-        return version.toString();
     }
 }

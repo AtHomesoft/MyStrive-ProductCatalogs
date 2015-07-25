@@ -2,19 +2,38 @@ package com.mystrive.products;
 
 import org.junit.Before;
 import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.junit.runners.Parameterized;
 
 import java.io.File;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
 import java.util.Map;
 
 import static org.junit.Assert.*;
 
+@RunWith(Parameterized.class)
 public class ProductCatalogsManagerTest {
+    @Parameterized.Parameters
+    public static Collection<Object[]> data() throws IOException {
+        List<Object[]> paramters = new ArrayList<>();
+        paramters.add(new Object[] { new FileSystemLoader(new File("catalogs")) });
+        paramters.add(new Object[] { new GitHubLoader("AtHomesoft/MyStrive-ProductCatalogs", "catalogs") });
+        return paramters;
+    }
+
+    private final ProductCatalogsLoader loader;
     private ProductCatalogsManager manager;
+
+    public ProductCatalogsManagerTest(ProductCatalogsLoader loader) {
+        this.loader = loader;
+    }
 
     @Before
     public void setUp() throws Exception {
         manager = new ProductCatalogsManager();
-        FileSystemLoader loader = new FileSystemLoader(new File("catalogs"));
         loader.load(manager);
     }
 

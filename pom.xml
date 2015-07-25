@@ -20,6 +20,11 @@
             <artifactId>super-csv</artifactId>
             <version>2.3.1</version>
         </dependency>
+        <dependency>
+            <groupId>org.kohsuke</groupId>
+            <artifactId>github-api</artifactId>
+            <version>1.69</version>
+        </dependency>
 
         <!-- Test Dependencies -->
         <dependency>
