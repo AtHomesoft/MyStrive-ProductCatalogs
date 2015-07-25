@@ -6,7 +6,6 @@ import org.kohsuke.github.GHRepository;
 import org.kohsuke.github.GitHub;
 import org.kohsuke.github.PagedIterable;
 
-import java.io.IOException;
 import java.io.InputStream;
 import java.util.List;
 
@@ -14,7 +13,7 @@ public class GitHubLoader extends CsvProductCatalogsLoader {
     private String repoUrl;
     private String catalogDir;
 
-    public GitHubLoader(String repoUrl, String catalogDir) throws IOException {
+    public GitHubLoader(String repoUrl, String catalogDir) {
         this.repoUrl = repoUrl;
         this.catalogDir = catalogDir;
     }
