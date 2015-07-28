@@ -53,6 +53,12 @@ public class ProductCatalogsManagerTest {
         assertMaryKayUSA(catalogInfo);
     }
 
+    @Test
+    public void testGetProductCatalogById() throws Exception {
+        ProductCatalog productCatalog = manager.getProductCatalog("Mary_Kay/USA");
+        assertNotNull("Did not find product catalog by id.", productCatalog);
+    }
+
     private void assertMaryKayUSA(ProductCatalogInfo catalogInfo) {
         Business business = catalogInfo.getBusiness();
         assertEquals("Incorrect value for id.", CompanyCatalog.MaryKay.KEY, business.getId());

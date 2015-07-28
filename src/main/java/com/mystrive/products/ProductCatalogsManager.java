@@ -34,4 +34,14 @@ public class ProductCatalogsManager {
     public String buildProductCatalogId(String business, String locale) {
         return business + '/' + locale;
     }
+
+    public ProductCatalog getProductCatalog(String productCatalogId) {
+        ProductCatalog catalog = null;
+
+        if (productCatalogs.containsKey(productCatalogId)) {
+            catalog = productCatalogs.get(productCatalogId);
+        }
+
+        return catalog;
+    }
 }
