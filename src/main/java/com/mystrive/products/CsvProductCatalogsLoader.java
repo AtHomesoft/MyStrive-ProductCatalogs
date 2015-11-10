@@ -32,17 +32,17 @@ public abstract class CsvProductCatalogsLoader implements ProductCatalogsLoader 
             manager.getProductCatalogInfos().put(catalogInfo.getId(), catalogInfo);
 
             ProductCatalog catalog = new ProductCatalog(catalogId, business, catalogName, version);
+            String[] headers = { Product.NUMBER, Product.NAME, Product.RETAIL, Product.WHOLESALE, Product.SECTION,
+                    Product.CATEGORY, Product.DISCONTINUED, Product.TAXABLE };
+            CellProcessor[] processors = { new ProductNumberProcessor(), null, new ParseDouble(),
+                    new ParseDouble(), new ParseInt(), null, new ParseBool(), new ParseBool() };
 
-            Product product;
+            Product product = csvBeanReader.read(Product.class, headers, processors);
 
-            do {
-                String[] headers = { Product.NUMBER, Product.NAME, Product.RETAIL, Product.WHOLESALE, Product.SECTION,
-                        Product.CATEGORY, Product.DISCONTINUED, Product.TAXABLE };
-                CellProcessor[] processors = { new ProductNumberProcessor(), null, new ParseDouble(),
-                        new ParseDouble(), new ParseInt(), null, new ParseBool(), new ParseBool() };
-                product = csvBeanReader.read(Product.class, headers, processors);
+            while (product != null) {
                 catalog.getProducts().add(product);
-            } while (product != null);
+                product = csvBeanReader.read(Product.class, headers, processors);
+            }
 
             return catalog;
         }

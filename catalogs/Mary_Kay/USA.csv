@@ -29,10 +29,10 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 13089,Mineral Eye Color: Navy Blue,6.5,3.25,1,,TRUE,TRUE
 13065,Mineral Eye Color: Sienna,7,3.5,1,,TRUE,TRUE
 13020,Mineral Eye Color: Sweet Cream,8,4,1,Mineral Eye Color,FALSE,TRUE
-16610,Mineral Bronzing Powder: Desert Sun (Ivory/Beige Ì¢‰âÂ‰ÛÏ Shimmer),12,6,1,,TRUE,TRUE
-16165,Mineral Bronzing Powder: Sandstone (Ivory/Beige Ì¢‰âÂ‰ÛÏ Matte),12,6,1,,TRUE,TRUE
-16611,Mineral Bronzing Powder: Canyon Gold (Beige/Bronze Ì¢‰âÂ‰ÛÏ Shimmer),12,6,1,,TRUE,TRUE
-16167,Mineral Bronzing Powder: Bronze Diva (Beige/Bronze Ì¢‰âÂ‰ÛÏ Matte),12,6,1,,TRUE,TRUE
+16610,Mineral Bronzing Powder: Desert Sun (Ivory/Beige Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Shimmer),12,6,1,,TRUE,TRUE
+16165,Mineral Bronzing Powder: Sandstone (Ivory/Beige Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Matte),12,6,1,,TRUE,TRUE
+16611,Mineral Bronzing Powder: Canyon Gold (Beige/Bronze Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Shimmer),12,6,1,,TRUE,TRUE
+16167,Mineral Bronzing Powder: Bronze Diva (Beige/Bronze Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Matte),12,6,1,,TRUE,TRUE
 15263,Brushes & Applicators: Compact Cheek Brush,2,1,1,Other Cheek Products;Compacts/Brushes/Applicators/Bags;Mineral Cheek Color,FALSE,TRUE
 15262,Brushes & Applicators: Compact Powder Brush,4,2,1,Compacts/Brushes/Applicators/Bags,FALSE,TRUE
 15261,"Brushes & Applicators: Cosmetic Sponges, pk./2",3,1.5,1,Compacts/Brushes/Applicators/Bags,FALSE,TRUE
@@ -86,7 +86,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 74400,Concealer: Light Bronze,9.5,4.75,1,,TRUE,TRUE
 74800,Concealer: Bronze,9.5,4.75,1,,TRUE,TRUE
 73700,Concealer: Yellow,9.5,4.75,1,,TRUE,TRUE
-18288,Gift Sets: MotherÌ¢‰âÂ‰ã¢s Day Gift Set,28,14,1,,TRUE,TRUE
+18288,Gift Sets: MotherÌ¢ï¿½ï¿½Â‰ï¿½s Day Gift Set,28,14,1,,TRUE,TRUE
 18289,MKMen Gift Set,60,30,1,,TRUE,TRUE
 23210,Mineral Powder Foundation and Brush Set: Ivory 1 (bag not included),28,14,1,,TRUE,TRUE
 23211,Mineral Powder Foundation and Brush Set: Ivory 2 (bag not included),28,14,1,,TRUE,TRUE
@@ -250,10 +250,10 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 397300,ELIGE Eau de Parfum,40,20,1,,TRUE,TRUE
 166700,Women's Fragrance: Journey Eau de Parfum,40,20,1,Fragrances,FALSE,TRUE
 168700,Women's Fragrance: Velocity Eau de Parfum,28,14,1,,TRUE,TRUE
-596400,MenÌâ‰Ûªs Fragrance: Domain Cologne Spray,34,17,1,,TRUE,TRUE
-12494,MenÌâ‰Ûªs Fragrance: MK High Intensity Cologne Spray,40,20,1,Fragrances,FALSE,TRUE
-250700,MenÌâ‰Ûªs Fragrance: Tribute for Men Cologne Spray,28,14,1,Fragrances,FALSE,TRUE
-501700,MenÌâ‰Ûªs Fragrance: Velocity for Him Cologne Spray,28,14,1,,TRUE,TRUE
+596400,Menï¿½ï¿½Ûªs Fragrance: Domain Cologne Spray,34,17,1,,TRUE,TRUE
+12494,Menï¿½ï¿½Ûªs Fragrance: MK High Intensity Cologne Spray,40,20,1,Fragrances,FALSE,TRUE
+250700,Menï¿½ï¿½Ûªs Fragrance: Tribute for Men Cologne Spray,28,14,1,Fragrances,FALSE,TRUE
+501700,Menï¿½ï¿½Ûªs Fragrance: Velocity for Him Cologne Spray,28,14,1,,TRUE,TRUE
 900400,Custom Compact,16,8,1,,TRUE,TRUE
 891300,Cheek Color Brush,2.5,1.25,1,,TRUE,TRUE
 582000,Cosmetic Sponges (pk./2),2,1,1,,TRUE,TRUE
@@ -346,13 +346,13 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 17364,Cosmetic Display Tray (single),3,3,2,Product Presentation Tools,FALSE,TRUE
 17283,Lipstick Caddy,3,3,2,Product Presentation Tools,TRUE,TRUE
 17778,"The Look (Spring 2008 issue), pk./10",3.5,3.5,2,,TRUE,TRUE
-17779,"La imagen (ediciÌÄå_n de primavera 2008), paq./10",3.5,3.5,2,,TRUE,TRUE
-19954,"GirlÌ¢‰âÂ‰ã¢s Guide to Gorgeous Customer Brochure, pk./10",1.5,1.5,2,,TRUE,TRUE
-19955,"Folleto para clientas GuÌÄå_a para toda chica guapa, paq./10",1.5,1.5,2,,TRUE,TRUE
+17779,"La imagen (ediciï¿½ï¿½ï¿½_n de primavera 2008), paq./10",3.5,3.5,2,,TRUE,TRUE
+19954,"GirlÌ¢ï¿½ï¿½Â‰ï¿½s Guide to Gorgeous Customer Brochure, pk./10",1.5,1.5,2,,TRUE,TRUE
+19955,"Folleto para clientas Guï¿½ï¿½ï¿½_a para toda chica guapa, paq./10",1.5,1.5,2,,TRUE,TRUE
 10994,"Hostess Brochure, pk./10",2.5,2.5,2,,TRUE,TRUE
 10995,"Folleto de anfitrionas, paq./10",2.5,2.5,2,,TRUE,TRUE
 20861,"Sample Anything! Card, pk./10",2.5,2.5,2,,TRUE,TRUE
-21260,"tarjeta ÌâåÁMuÌÄå©stralo todo!, paq./10",2.5,2.5,2,,TRUE,TRUE
+21260,"tarjeta ï¿½ï¿½ï¿½ï¿½Muï¿½ï¿½ï¿½stralo todo!, paq./10",2.5,2.5,2,,TRUE,TRUE
 13037,Mineral Eye Color Samplers: Chocolate Kiss,1.25,1.25,2,,TRUE,TRUE
 13082,Mineral Eye Color Samplers: Granite,1.25,1.25,2,,TRUE,TRUE
 13034,Mineral Eye Color Samplers: Honey Spice,1.25,1.25,2,,TRUE,TRUE
@@ -511,8 +511,8 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 11747,"Body Care Samplers With Card, pk./6 (bilingual): Nourishing Body Lotion",2.25,2.25,2,,TRUE,TRUE
 645400,Miscellaneous: Netted Body Sponge (White),1,1,2,,TRUE,TRUE
 7724,Fragrance Sampler Cards: Affection Eau de Parfum,1,1,2,,TRUE,TRUE
-15475,WomenÌ¢‰âÂ‰ã¢s Fragrance (Promotes 6 signature fragrances),1,1,2,,TRUE,TRUE
-15476,MenÌ¢‰âÂ‰ã¢s Fragrance,1,1,2,,TRUE,TRUE
+15475,WomenÌ¢ï¿½ï¿½Â‰ï¿½s Fragrance (Promotes 6 signature fragrances),1,1,2,,TRUE,TRUE
+15476,MenÌ¢ï¿½ï¿½Â‰ï¿½s Fragrance,1,1,2,,TRUE,TRUE
 14093,"Satin Hands: Hand Cream Samplers, pk./12",4,4,2,,TRUE,TRUE
 14092,"Pampering Set Sampler Packettes, 4 sets of samplers",2,2,2,,TRUE,TRUE
 519900,Starter Kit Bag (empty),15,15,2,,TRUE,TRUE
@@ -526,32 +526,32 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 570200,Classic Basic Moisturizer Pump,2,2,2,,TRUE,TRUE
 72300,TimeWise Age-Fighting Moisturizer Pump,1,1,2,,TRUE,TRUE
 10249,"Beauty Book, pk./10 (12/06 Version)",2,2,2,,TRUE,TRUE
-10250,"Libro de belleza, paq./10 (VersiÌÄå_n 12/06)",2,2,2,,TRUE,TRUE
+10250,"Libro de belleza, paq./10 (Versiï¿½ï¿½ï¿½_n 12/06)",2,2,2,,TRUE,TRUE
 10894,Flip Chart,10,10,2,,TRUE,TRUE
 10895,Rotafolios,10,10,2,,TRUE,TRUE
 19201,"Customer Profile, pk./50 (12/07 version)",1.75,1.75,2,,TRUE,TRUE
-19202,"Perfil de la clienta, paq./50 (versiÌÄå_n 12/07)",1.75,1.75,2,,TRUE,TRUE
+19202,"Perfil de la clienta, paq./50 (versiï¿½ï¿½ï¿½_n 12/07)",1.75,1.75,2,,TRUE,TRUE
 993700,"Disposable Trays, pk./25 (fit discontinued, pink Face Case)",1.75,1.75,2,,TRUE,TRUE
 7645,"Disposable Trays, pk./30 (fit current, black Face Case)",1.75,1.75,2,,TRUE,TRUE
 532400,Face Case,4.5,4.5,2,,TRUE,TRUE
 394800,Magnified Mirror (fits in Face Case),1,1,2,,TRUE,TRUE
 6683,"Facial Cloths (Disposable), pk./30",2.25,2.25,2,Skin Care Class Supplies,FALSE,TRUE
 13465,"Invitation/Reminder Postcards, pk./20",1,1,2,,TRUE,TRUE
-13466,"InvitaciÌÄå_n/Tarjetas de recordatorio, paq./20",1,1,2,,TRUE,TRUE
+13466,"Invitaciï¿½ï¿½ï¿½_n/Tarjetas de recordatorio, paq./20",1,1,2,,TRUE,TRUE
 400700,"Spatulas, pk./24",1,1,2,Skin Care Class Supplies,FALSE,TRUE
-15252,Consultant Order Form (3/16/08 Ì¢‰âÂ‰ÛÏ 6/15/08),0.05,0.05,2,,TRUE,TRUE
-11915,Datebook (July 2007 Ì¢‰âÂ‰ÛÏ Dec. 2008),1.5,1.5,2,,TRUE,TRUE
+15252,Consultant Order Form (3/16/08 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 6/15/08),0.05,0.05,2,,TRUE,TRUE
+11915,Datebook (July 2007 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Dec. 2008),1.5,1.5,2,,TRUE,TRUE
 495,"Facial Request Card Refills, pad/25",0.15,0.15,2,,TRUE,TRUE
 496,"Hoja de repuestos para caja de faciales, bloc./25",0.15,0.15,2,,TRUE,TRUE
-715000,Mary KayÌâå¨ Ì¢‰âÂÒenriching women's livesÌ¢‰âÂå Car Decal,0.75,0.75,2,Business Supplies,FALSE,TRUE
-997700,Mary KayÌâå¨ Logo Pin,2.25,2.25,2,Business Supplies,FALSE,TRUE
+715000,Mary Kayï¿½ï¿½ï¿½ Ì¢ï¿½ï¿½Âï¿½enriching women's livesÌ¢ï¿½ï¿½ï¿½ï¿½ Car Decal,0.75,0.75,2,Business Supplies,FALSE,TRUE
+997700,Mary Kayï¿½ï¿½ï¿½ Logo Pin,2.25,2.25,2,Business Supplies,FALSE,TRUE
 12706,"Product Replacement Request, pk./10",0.5,0.5,2,,TRUE,TRUE
 12707,"Solicitud para el reemplazo de productos, paq./10",0.5,0.5,2,,TRUE,TRUE
 10209,"Sales Tickets, pk./100",2.5,2.5,2,,TRUE,TRUE
 10210,"Recibos de ventas, paq./100",2.5,2.5,2,,TRUE,TRUE
-72700,SurfMKÌâå¨ Internet Access CD,1,1,2,,TRUE,TRUE
+72700,SurfMKï¿½ï¿½ï¿½ Internet Access CD,1,1,2,,TRUE,TRUE
 12656,Weekly Accomplishment / Weekly Plan Sheets (13 ea.),0.5,0.5,2,,TRUE,TRUE
-12657,Hoja de logros semanales / Hoja de planeaciÌÄå_n semanal (13 c/u),0.5,0.5,2,,TRUE,TRUE
+12657,Hoja de logros semanales / Hoja de planeaciï¿½ï¿½ï¿½_n semanal (13 c/u),0.5,0.5,2,,TRUE,TRUE
 808000,"Sheer Bags: Sheer Bag, pk./3",5,5,2,,TRUE,TRUE
 11242,"Paper Shopping Bag, pk./5 (includes 10 tissue sheets)",5,5,2,,TRUE,TRUE
 11243,"Large Plastic Bag, pk./50",5.5,5.5,2,,TRUE,TRUE
@@ -559,15 +559,15 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 505900,"Bubble-Lite Bags: Small (7"" x 10""), pk./10",3,3,2,,TRUE,TRUE
 506000,"Large (9"" x 12""), pk./10",3.75,3.75,2,,TRUE,TRUE
 15159,"Independent Beauty Consultant Agreements, pk./5 (3/07 Version)",0.5,0.5,2,,TRUE,TRUE
-15160,"Acuerdos de Consultora de Belleza Independiente, paq./5 (versiÌÄå_n mar/07)",0.5,0.5,2,,TRUE,TRUE
+15160,"Acuerdos de Consultora de Belleza Independiente, paq./5 (versiï¿½ï¿½ï¿½_n mar/07)",0.5,0.5,2,,TRUE,TRUE
 9483,First Steps,20,20,2,,TRUE,TRUE
 9484,Primeros Pasos,20,20,2,,TRUE,TRUE
 7725,Imagine the Possibilities Team-Building DVD (bilingual),5,5,2,,TRUE,TRUE
 6927,"Inspiring Success Brochures, pk./6 (African-American)",1.75,1.75,2,,TRUE,TRUE
 12163,"Steps to Success Career Path Brochure, pk./5",2,2,2,,TRUE,TRUE
-12164,"Folletos de la trayectoria profesional Camino al ÌÄå©xito, paq./5",2,2,2,,TRUE,TRUE
-12046,"Ready, Set, Sell! Inventory Options for New Consultants Brochure, pk./5 (6/16/07 Ì¢‰âÂ‰ÛÏ 6/15/08 version)",2,2,2,,TRUE,TRUE
-12047,"Folleto En sus marcas, listas ÌâåÁy a vender! Opciones de inventario para nuevas Consultoras, Paq./5 (versiÌÄå_n 16/jun/07 Ì¢‰âÂ‰ÛÏ 15/jun/08)",2,2,2,,TRUE,TRUE
+12164,"Folletos de la trayectoria profesional Camino al ï¿½ï¿½ï¿½xito, paq./5",2,2,2,,TRUE,TRUE
+12046,"Ready, Set, Sell! Inventory Options for New Consultants Brochure, pk./5 (6/16/07 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 6/15/08 version)",2,2,2,,TRUE,TRUE
+12047,"Folleto En sus marcas, listas ï¿½ï¿½ï¿½ï¿½y a vender! Opciones de inventario para nuevas Consultoras, Paq./5 (versiï¿½ï¿½ï¿½_n 16/jun/07 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 15/jun/08)",2,2,2,,TRUE,TRUE
 10954,"Team-Building Brochure, pk./6",1.75,1.75,2,,TRUE,TRUE
 10955,"Folleto de desarrollo de equipo, paq./6",1.75,1.75,2,,TRUE,TRUE
 1260,"Team-Building CD, pk./6 (bilingual)",6,6,2,,TRUE,TRUE
@@ -576,10 +576,10 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 10690,Libro Maquillaje: acceso privilegiado,15,15,2,,TRUE,TRUE
 10692,Color Insider DVD Set (bilingual),10,10,2,,TRUE,TRUE
 1247,"Consultants Guide, New Consultant educational materials",15,15,2,,TRUE,TRUE
-1248,"GuÌÄå_a de Consultoras, Materiales educativos para nuevas Consultoras",15,15,2,,TRUE,TRUE
+1248,"Guï¿½ï¿½ï¿½_a de Consultoras, Materiales educativos para nuevas Consultoras",15,15,2,,TRUE,TRUE
 6780,And Then Some Journal/CD,7.5,7.5,2,,TRUE,TRUE
-6781,Diario/CD Y luego un poco mÌÄåÁs,7.5,7.5,2,,TRUE,TRUE
-20315,Independent Sales Force Power Hour CD Ì¢‰âÂ‰ÛÏ (3/16/08 Ì¢‰âÂ‰ÛÏ 6/15/08 version),1,1,2,,TRUE,TRUE
+6781,Diario/CD Y luego un poco mï¿½ï¿½ï¿½ï¿½s,7.5,7.5,2,,TRUE,TRUE
+20315,Independent Sales Force Power Hour CD Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ (3/16/08 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 6/15/08 version),1,1,2,,TRUE,TRUE
 15268,A&E Mary Kay Biography DVD,5,5,2,,TRUE,TRUE
 16157,Be A Star Seminar 2007 Highlights DVD,10,10,2,,TRUE,TRUE
 300400,Miracles Happen - Mary Kay Autobiography,3,3,2,More on Mary Kay,FALSE,TRUE
@@ -587,15 +587,15 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 123200,Living A Rich Life (A portion of the proceeds will go to the Mary Kay Ash Charitable Foundation),10,10,2,,TRUE,TRUE
 984700,Pin of Hope (A portion of the proceeds will go to the Mary Kay Ash Charitable Foundation),5,5,2,Mary Kay Foundation(sm),FALSE,TRUE
 612800,"American Cancer Society Cancer Facts for Women Brochure, pk./25",2,2,2,,TRUE,TRUE
-612900,"Folleto informativo para la mujer sobre el cÌÄåÁncer de la Sociedad Americana del CÌÄåÁncer, paq./25",2,2,2,,TRUE,TRUE
+612900,"Folleto informativo para la mujer sobre el cï¿½ï¿½ï¿½ï¿½ncer de la Sociedad Americana del Cï¿½ï¿½ï¿½ï¿½ncer, paq./25",2,2,2,,TRUE,TRUE
 277800,"Breast Self-Exam Shower Card, pk./10 (bilingual)",1.75,1.75,2,Mary Kay Foundation(sm),FALSE,TRUE
 386600,"Foundation Brochure, pk./10",0.75,0.75,2,,TRUE,TRUE
-386700,"Folleto de la FundaciÌÄå_n, paq./10",0.75,0.75,2,,TRUE,TRUE
+386700,"Folleto de la Fundaciï¿½ï¿½ï¿½_n, paq./10",0.75,0.75,2,,TRUE,TRUE
 536,"Foundation Donation Envelopes, pk./50",1.25,1.25,2,Mary Kay Foundation(sm),FALSE,TRUE
-10017,"Healthy Relationships Ì¢‰âÂ‰ÛÏ A Guide to Dating Violence, pk./10",1,1,2,,TRUE,TRUE
-10953,"Relaciones Sanas: Una guÌÄå_a sobre la violencia en las relaciones de pareja, paq./10",1,1,2,,TRUE,TRUE
+10017,"Healthy Relationships Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ A Guide to Dating Violence, pk./10",1,1,2,,TRUE,TRUE
+10953,"Relaciones Sanas: Una guï¿½ï¿½ï¿½_a sobre la violencia en las relaciones de pareja, paq./10",1,1,2,,TRUE,TRUE
 386800,"National Network to End Domestic Violence Pamphlet, pk./10",0.75,0.75,2,,TRUE,TRUE
-387000,"Folleto de la Red Nacional Para Poner Fin a la Violencia DomÌÄå©stica, paq./10",0.75,0.75,2,,TRUE,TRUE
+387000,"Folleto de la Red Nacional Para Poner Fin a la Violencia Domï¿½ï¿½ï¿½stica, paq./10",0.75,0.75,2,,TRUE,TRUE
 2654,With Hope and Courage DVD (A portion of the proceeds will go to the Mary Kay Ash Charitable Foundation.),5,5,2,,TRUE,TRUE
 655200,"Creme-To-Powder Foundation Samplers, pk./6: Ivory 0.5",1,1,2,,TRUE,TRUE
 365500,"Creme-To-Powder Foundation Samplers, pk./6: Ivory 1",1,1,2,,TRUE,TRUE
@@ -667,13 +667,13 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 20752,Quilted Cosmetic Bag Trio,13,13,2,Customer Gifts,TRUE,TRUE
 15253,Consultant Order Form (6/16/08 - 9/15/08),0.05,0.05,2,,TRUE,TRUE
 19059,Datebook (July 2008 - Dec. 2009),1.5,1.5,2,,TRUE,TRUE
-17781,"La imagen (ediciÌÄå_n de verano), paq./10",3.5,3.5,2,,TRUE,TRUE
+17781,"La imagen (ediciï¿½ï¿½ï¿½_n de verano), paq./10",3.5,3.5,2,,TRUE,TRUE
 19359,"Beauty Book, pk./10 (6/08 Version)",2,2,2,,TRUE,TRUE
-19360,"Libro de belleza, paq./10 (VersiÌÄå_n 6/08)",2,2,2,,TRUE,TRUE
+19360,"Libro de belleza, paq./10 (Versiï¿½ï¿½ï¿½_n 6/08)",2,2,2,,TRUE,TRUE
 21689,"Hostess Brochure, pk./10",3,3,2,,TRUE,TRUE
 21690,"Folleto de anfitrionas, paq./10",3,3,2,,TRUE,TRUE
 20209,"Steps to Success Career Path Brochure, pk./5",2,2,2,,TRUE,TRUE
-20210,"Folletos de la trayectoria profesional Camino al ÌÄå©xito, paq./5",2,2,2,,TRUE,TRUE
+20210,"Folletos de la trayectoria profesional Camino al ï¿½ï¿½ï¿½xito, paq./5",2,2,2,,TRUE,TRUE
 24461,"Team-Building Brochure, pk./6",1.75,1.75,2,,TRUE,TRUE
 24462,"Folleto de desarrollo de equipo, paq./6",1.75,1.75,2,,TRUE,TRUE
 24809,Color Insider Book and DVD,15,15,2,,TRUE,TRUE
@@ -751,8 +751,8 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 15650,Color Cards: Neutrals,1.5,1.5,2,,TRUE,TRUE
 21691,"Class/Party Postcards, pk./20",1,1,2,,TRUE,TRUE
 21692,"Postales para clase/fiesta, paq./20",1,1,2,,TRUE,TRUE
-20683,"Ready, Set, Sell! Inventory Options for New Consultants Brochure, pk./5 (6/16/08 Ì¢‰âÂ‰ÛÏ 6/15/09 Version)",2,2,2,,TRUE,TRUE
-20684,"Folleto En sus marcus, listas ÌâåÁy a vender!, paq./5 (VersiÌÄå_n 6/16/08 Ì¢‰âÂ‰ÛÏ 6/15/09)",2,2,2,,TRUE,TRUE
+20683,"Ready, Set, Sell! Inventory Options for New Consultants Brochure, pk./5 (6/16/08 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 6/15/09 Version)",2,2,2,,TRUE,TRUE
+20684,"Folleto En sus marcus, listas ï¿½ï¿½ï¿½ï¿½y a vender!, paq./5 (Versiï¿½ï¿½ï¿½_n 6/16/08 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 6/15/09)",2,2,2,,TRUE,TRUE
 16384,Jewelry Wardrobe Organizer,10,10,2,,TRUE,TRUE
 19016,"Spring 2010 Gift With Purchase: Mini Mineral Eye Color Quad, pk./5",17.5,17.5,2,,TRUE,TRUE
 019016-INDV,Spring 2010 Gift With Purchase: Mini Mineral Eye Color Quad,3.5,3.5,2,,TRUE,TRUE
@@ -1995,7 +1995,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 450800,Quick Dry,5,2.5,1,,TRUE,TRUE
 451200,Vinyl Bags,2.75,2.75,2,,TRUE,TRUE
 453500,Semi-Matte Lipstick: Cinnamon Toast,11,5.5,1,,TRUE,TRUE
-454600,Fall 2000 Semi-Matte Lipstick: CafÌÄå© Society (Warm),11,11,2,,TRUE,TRUE
+454600,Fall 2000 Semi-Matte Lipstick: Cafï¿½ï¿½ï¿½ Society (Warm),11,11,2,,TRUE,TRUE
 455200,Semi-Matte Lipstick Demonstrators: Berry Savvy,0.45,0.45,2,,TRUE,TRUE
 455300,Semi-Matte Lipstick Demonstrators: Spice Island,0.45,0.45,2,,TRUE,TRUE
 455400,Semi-Matte Lipstick Demonstrators: Cinnamon Toast,0.45,0.45,2,,TRUE,TRUE
@@ -2267,7 +2267,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 575100,Lip Wand: Petal,10,5,1,,TRUE,TRUE
 575200,Lip Wand: Flora,10,5,1,,TRUE,TRUE
 575700,Lipstick: Pink Daisy Classic,13,6.5,1,,TRUE,TRUE
-575800,Shimmery Lip & Nail Set: TwinkleÌ¢‰âÂå_Youre a Star,18,9,1,,TRUE,TRUE
+575800,Shimmery Lip & Nail Set: TwinkleÌ¢ï¿½ï¿½ï¿½ï¿½_Youre a Star,18,9,1,,TRUE,TRUE
 575900,Lipstick: Sheer Blush Classic,13,6.5,1,,TRUE,TRUE
 576000,Lip Outliner Pencil,15,7.5,1,,TRUE,TRUE
 580100,Eye Color: Dusk (Sauare),5,2.5,1,,TRUE,TRUE
@@ -2626,7 +2626,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 680300,The Look: What It's All About and How To Get It (Summer Issue),3,3,2,,TRUE,TRUE
 680400,Lip Crayon: Tender,12,6,1,,TRUE,TRUE
 680500,Lip Crayon: Mellow,12,6,1,,TRUE,TRUE
-680600,Lip Crayon: NaÌÄåøve,12,6,1,,TRUE,TRUE
+680600,Lip Crayon: Naï¿½ï¿½ï¿½ï¿½ve,12,6,1,,TRUE,TRUE
 680700,Lip Crayon: Fickle,12,6,1,,TRUE,TRUE
 680800,Lip Crayon: Feisty,12,6,1,,TRUE,TRUE
 680900,Lip Crayon: Classy,12,6,1,,TRUE,TRUE
@@ -2652,7 +2652,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 686000,Color Edition Refill Pages,7.5,3.75,1,,TRUE,TRUE
 686100,Lip Crayon Demo: Tender,1,1,2,,TRUE,TRUE
 686200,Lip Crayon Demo: Mellow,1,1,2,,TRUE,TRUE
-686300,Lip Crayon Demo: NaÌÄåøve,1,1,2,,TRUE,TRUE
+686300,Lip Crayon Demo: Naï¿½ï¿½ï¿½ï¿½ve,1,1,2,,TRUE,TRUE
 686400,Lip Crayon Demo: Fickle,1,1,2,,TRUE,TRUE
 686500,Lip Crayon Demo: Feisty,1,1,2,,TRUE,TRUE
 686600,Lip Crayon Demo: Classy,1,1,2,,TRUE,TRUE
@@ -3135,11 +3135,11 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 20104,MKMen: Body Spray,14,7,1,,TRUE,TRUE
 26251,Color 101 Collection: Chocolates,113.5,56.75,1,,TRUE,TRUE
 26252,Color 101 Collection: Neutrals,113.5,56.75,1,,TRUE,TRUE
-22260,Consultant Order Form (9/16/08 Ì¢‰âÂ‰ÛÏ 12/15/08),0.05,0.05,2,,TRUE,TRUE
+22260,Consultant Order Form (9/16/08 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 12/15/08),0.05,0.05,2,,TRUE,TRUE
 17782,"The Look (Fall/Holiday issue), pk./10",3.5,3.5,2,,TRUE,TRUE
-17783,"La imagen (ediciÌÄå_n de otoÌÄå±o/fin de aÌÄå±o), paq./10",3.5,3.5,2,,TRUE,TRUE
+17783,"La imagen (ediciï¿½ï¿½ï¿½_n de otoï¿½ï¿½ï¿½o/fin de aï¿½ï¿½ï¿½o), paq./10",3.5,3.5,2,,TRUE,TRUE
 20458,"Steps to Success Career Path Brochure, pk./5",2,2,2,,TRUE,TRUE
-20459,"Folletos de la trayectoria profesional Camino al ÌÄå©xito, paq./5",2,2,2,,TRUE,TRUE
+20459,"Folletos de la trayectoria profesional Camino al ï¿½ï¿½ï¿½xito, paq./5",2,2,2,,TRUE,TRUE
 21962,Sales Force Power Hour CD (9/16/08 - 12/15/08 version),1,1,2,,TRUE,TRUE
 23965,Celebrate the Dream! Seminar 2008 Highlights DVD,10,10,2,,TRUE,TRUE
 25675,With Hope and Courage DVD (bilingual),5,5,2,,TRUE,TRUE
@@ -3178,7 +3178,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 16385,Hostess Gift: Holiday Wishes Necklace,10,10,2,,TRUE,TRUE
 19539,"Fall/Holiday 2008 Gift With Purchase: Mini Body Care Set, pk. 5",17.5,17.5,2,,TRUE,TRUE
 019539-INDV,Fall/Holiday 2008 Gift With Purchase: Mini Body Care Set,3.5,3.5,2,,TRUE,TRUE
-10026690,"Ready, Set, Sell! Inventory Options for New Consultants Brochure, pk./5 (6/16/08 Ì¢‰âÂ‰ÛÏ 6/15/09 Version)",2,2,2,,TRUE,TRUE
+10026690,"Ready, Set, Sell! Inventory Options for New Consultants Brochure, pk./5 (6/16/08 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 6/15/09 Version)",2,2,2,,TRUE,TRUE
 18606,Brow Definer Pencil: Blonde,10,5,1,,TRUE,TRUE
 18048,Brow Definer Pencil: Classic Blonde,10,5,1,,TRUE,TRUE
 14730,Lip Liner: Cinnamon,10,5,1,,TRUE,TRUE
@@ -3191,7 +3191,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 20414,Creme Lipstick Couture Pink,13,6.5,1,,TRUE,TRUE
 20422,Mineral Shimmer Powder Canary Diamond,14,7,1,,TRUE,TRUE
 20420,Lip Gloss: Gold Sequins,13,6.5,1,,TRUE,TRUE
-26690,"Ready, Set, Sell! Inventory Options for New Consultants Brochure, pk./5 (6/16/08 Ì¢‰âÂ‰ÛÏ 6/15/09 Version)",2,2,2,,TRUE,TRUE
+26690,"Ready, Set, Sell! Inventory Options for New Consultants Brochure, pk./5 (6/16/08 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 6/15/09 Version)",2,2,2,,TRUE,TRUE
 22169,Loose Powder: Beige 1,14,7,1,,TRUE,TRUE
 22172,Loose Powder: Bronze 2,14,7,1,,TRUE,TRUE
 23467,Concealer: Ivory 1,12,6,1,Concealer,FALSE,TRUE
@@ -3254,12 +3254,12 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 22838,Lipstick: Toffee,15,7.5,1,Creme Lipstick,FALSE,TRUE
 22828,Lipstick: Whipped Berries,15,7.5,1,Creme Lipstick,FALSE,TRUE
 17784,"The Look (Winter Issue), pk./10",3.5,3.5,2,,TRUE,TRUE
-17785,"La imagen (ediciÌâå¢n de invierno), paq./10",3.5,3.5,2,,TRUE,TRUE
+17785,"La imagen (ediciï¿½ï¿½ï¿½n de invierno), paq./10",3.5,3.5,2,,TRUE,TRUE
 16386,Hostess Gift: Everyday Tote With Key Chain,13,13,2,,TRUE,TRUE
 23315,"Winter 2008 Gift With Purchase: Skin Refreshing Set, pk./5",20,20,2,,TRUE,TRUE
 023315-INDV,Winter 2008 Gift With Purchase: Skin Refreshing Set,4,4,2,,TRUE,TRUE
-22261,Consultant Order Form (12/16/08 Ì¢‰âÂ‰ÛÏ 3/15/09),0.05,0.05,2,,TRUE,TRUE
-26691,"Folleto En sus marcus, listas ÌâåÁy a vender!, paq./5 (VersiÌÄå_n 6/16/08 Ì¢‰âÂ‰ÛÏ 6/15/09)",2,2,2,,TRUE,TRUE
+22261,Consultant Order Form (12/16/08 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 3/15/09),0.05,0.05,2,,TRUE,TRUE
+26691,"Folleto En sus marcus, listas ï¿½ï¿½ï¿½ï¿½y a vender!, paq./5 (Versiï¿½ï¿½ï¿½_n 6/16/08 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 6/15/09)",2,2,2,,TRUE,TRUE
 24321,Sales Force Power Hour CD (12/16/08 - 3/15/09 version),1,1,2,,TRUE,TRUE
 23198,Eau de Toilette Body Lotion: Exotic Passionfruit,15,7.5,1,,TRUE,TRUE
 23184,Eau de Toilette Body Lotion: Simply Cotton,15,7.5,1,,TRUE,TRUE
@@ -3298,9 +3298,9 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 27245,Concealer Samplers: Yellow,1,1,2,,TRUE,TRUE
 25172,"Costal Colors Collection Sampler Cards, pk./5",2,2,2,,TRUE,TRUE
 25928,"The Look (Spring 2009 issue), pk./10",3.5,3.5,2,,TRUE,TRUE
-25929,"La imagen (ediciÌÄå_n de primavera 2009), paq./10",3.5,3.5,2,,TRUE,TRUE
+25929,"La imagen (ediciï¿½ï¿½ï¿½_n de primavera 2009), paq./10",3.5,3.5,2,,TRUE,TRUE
 27886,"Girl's Guide to Gorgeous Customer Brochure, pk./10",1.5,1.5,2,,TRUE,TRUE
-27887,"Folleto para clientas GuÌâåÁa para toda chica guapa, paq./10",1.5,1.5,2,,TRUE,TRUE
+27887,"Folleto para clientas Guï¿½ï¿½ï¿½ï¿½a para toda chica guapa, paq./10",1.5,1.5,2,,TRUE,TRUE
 25289,Hostess Gift: Beauty Carryall,15,15,2,,TRUE,TRUE
 25849,"Spring 2009 Gift With Purchase: Travel-sized Microdermabrasion Set, pk./5",20,20,2,,TRUE,TRUE
 025849-INDV,Spring 2009 Gift With Purchase: Travel-sized Microdermabrasion,4,4,2,,TRUE,TRUE
@@ -3309,11 +3309,11 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 31010,Color 101 Collection: Chocolates,113.5,56.75,1,,TRUE,TRUE
 31008,Color 101 Collection: Neutrals,113.5,56.75,1,,TRUE,TRUE
 31007,Color 101 Collection: Tawnies,113.5,56.75,1,,TRUE,TRUE
-22262,Consultant Order Form (3/16/09 Ì¢‰âÂ‰ÛÏ 6/15/09),0.05,0.05,2,,TRUE,TRUE
+22262,Consultant Order Form (3/16/09 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 6/15/09),0.05,0.05,2,,TRUE,TRUE
 25774,"Sales Tickets, pk./100",3,3,2,,TRUE,TRUE
 25775,"Recibos de ventas, paq./100",3,3,2,,TRUE,TRUE
 30170,"Independent Beauty Consultant Agreements, pk./5 (3/09 Version)",0.5,0.5,2,,TRUE,TRUE
-30171,"Acuerdos de Consultora de Belleza Independiente, paq./5 (versiÌÄå_n mar/09)",0.5,0.5,2,,TRUE,TRUE
+30171,"Acuerdos de Consultora de Belleza Independiente, paq./5 (versiï¿½ï¿½ï¿½_n mar/09)",0.5,0.5,2,,TRUE,TRUE
 28811,"National Network to End Domestic Violence Pamphlet, pk./10",0.75,0.75,2,,TRUE,TRUE
 25617,Color Cards: Tawnies,1.5,1.5,2,,TRUE,TRUE
 29886,Lipstick: Pink Passion,13,6.5,1,,TRUE,TRUE
@@ -3370,8 +3370,8 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 22263,Consultant Order Form (6/16/09 - 9/15/09),0.05,0.05,2,,TRUE,TRUE
 30176,"Paper Shopping Bag, pk./5",5,5,2,,TRUE,TRUE
 28393,"Extra Emollient Night Cream Samplers, pk./12 (tubes)",6,6,2,,TRUE,TRUE
-25998,"GirlÌ¢‰âÂ‰ã¢s Guide to Gorgeous Customer Brochure, pk./10",1.5,1.5,2,,TRUE,TRUE
-25999,"Folleto para clientas GuÌÄå_a para toda chica guapa, paq./10",1.5,1.5,2,,TRUE,TRUE
+25998,"GirlÌ¢ï¿½ï¿½Â‰ï¿½s Guide to Gorgeous Customer Brochure, pk./10",1.5,1.5,2,,TRUE,TRUE
+25999,"Folleto para clientas Guï¿½ï¿½ï¿½_a para toda chica guapa, paq./10",1.5,1.5,2,,TRUE,TRUE
 30903,"Hostess Brochure, pk./10",3,3,2,,TRUE,TRUE
 30904,"Folleto de anfitrionas, paq./10",3,3,2,,TRUE,TRUE
 27715,TimeWise Trial Miracle Set: Normal/Dry,44,22,1,,TRUE,TRUE
@@ -3390,7 +3390,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 30902,"Postales para clase/fiesta, paq./20",1,1,2,,TRUE,TRUE
 27914,TimeWise 3-In-1 Cleansing Bar (with soap dish),20,10,1,TimeWise Anti-Aging,FALSE,TRUE
 30174,"Large Plastic Shopping Bag, pk./50",5.5,5.5,2,,TRUE,TRUE
-30610,Libro The Mary Kay Way - en espaÌÄå±ol,7.5,7.5,2,More on Mary Kay,FALSE,TRUE
+30610,Libro The Mary Kay Way - en espaï¿½ï¿½ï¿½ol,7.5,7.5,2,More on Mary Kay,FALSE,TRUE
 27910,Extra Emollient Night Cream,14,7,1,,TRUE,TRUE
 27908,TimeWise Firming Eye Cream,32,16,1,TimeWise Anti-Aging;Other Eye Products,FALSE,TRUE
 16984,NouriShine Lip Gloss: Bronze Bliss,13,6.5,1,,TRUE,TRUE
@@ -3420,20 +3420,20 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 27912,TimeWise Targeted-Action Line Reducer,42,21,1,,TRUE,TRUE
 24290,Netted Body Sponge (White),1,1,2,,TRUE,TRUE
 32266,"Steps to Success Career Path Brochure, pk./5",2,2,2,,TRUE,TRUE
-32267,"Folletos de la trayectoria profesional Camino al ÌÄå©xito, paq./5",2,2,2,,TRUE,TRUE
+32267,"Folletos de la trayectoria profesional Camino al ï¿½ï¿½ï¿½xito, paq./5",2,2,2,,TRUE,TRUE
 16986,NouriShine Lip Gloss Samplers: Bronze Bliss,1.25,1.25,2,,TRUE,TRUE
 31681,NouriShine Lip Gloss Samplers: Fancy Nancy,1.25,1.25,2,,TRUE,TRUE
 28089,"Modern Romance Color Collection Sampler Card, pk./5",2,2,2,,TRUE,TRUE
 30177,"Small Paper Shopping Bag, pk./5",2.5,2.5,2,,TRUE,TRUE
 30173,"Small Plastic Shopping Bag, pk./100",4.5,4.5,2,,TRUE,TRUE
 26222,"The Look (Fall/Holiday 2009 issue), pk./10",3.5,3.5,2,,TRUE,TRUE
-26223,"La imagen (ediciÌÄå_n de otoÌÄå±o/fin de aÌÄå±o 2009), paq./10",3.5,3.5,2,,TRUE,TRUE
+26223,"La imagen (ediciï¿½ï¿½ï¿½_n de otoï¿½ï¿½ï¿½o/fin de aï¿½ï¿½ï¿½o 2009), paq./10",3.5,3.5,2,,TRUE,TRUE
 35362,Consultants Guide,15,15,2,,TRUE,TRUE
-35363,GuÌÄå_a de Consultoras,15,15,2,,TRUE,TRUE
+35363,Guï¿½ï¿½ï¿½_a de Consultoras,15,15,2,,TRUE,TRUE
 29409,"Fall/Holiday 2009 Gift With Purchase: Travel-sized Satin Hands Pampering Set, pk./5",20,20,2,,TRUE,TRUE
 029409-INDV,Fall/Holiday 2009 Gift With Purchase: Travel-sized Satin Hands Pampering Set,4,4,2,,TRUE,TRUE
 27917,"Firming Eye Cream Samplers, pk./6",1.25,1.25,2,TimeWise Samplers;Product Samples,FALSE,TRUE
-27918,"Targeted-ActionÌâå¨ Line Reducer Samplers, pk./6",1.5,1.5,2,,TRUE,TRUE
+27918,"Targeted-Actionï¿½ï¿½ï¿½ Line Reducer Samplers, pk./6",1.5,1.5,2,,TRUE,TRUE
 30178,Flip Chart,10,10,2,,TRUE,TRUE
 34327,Consultant Order Form (9/16/09 - 12/15/09),0.05,0.05,2,,TRUE,TRUE
 33547,Consultant Image Pin Holder,5,5,2,,TRUE,TRUE
@@ -3475,14 +3475,14 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 31896,Fragrance-Free Satin Hands Pampering Set Packettes,2,2,2,Body Care Samplers,FALSE,TRUE
 31894,Fragrance-Free Satin Hands Hand Cream Samplers,6,6,2,Body Care Samplers,FALSE,TRUE
 26232,The Look (Winter 2009 issue),3.5,3.5,2,,TRUE,TRUE
-26233,La imagen (ediciÌÄå_n de invierno de aÌÄå±o 2009),3.5,3.5,2,,TRUE,TRUE
+26233,La imagen (ediciï¿½ï¿½ï¿½_n de invierno de aï¿½ï¿½ï¿½o 2009),3.5,3.5,2,,TRUE,TRUE
 30712,"Winter 2009 Gift With Purchase: Premium Tweeze and Soothe Set, pk./5",20,20,2,,TRUE,TRUE
 030712-INDV,Winter 2009 Gift With Purchase: Premium Tweeze and Soothe Set,4,4,2,,TRUE,TRUE
 29746,Microdermabrasion Set Samplers,2,2,2,,TRUE,TRUE
 29745,Age-Fighting Eye Cream Samplers,1.25,1.25,2,,TRUE,TRUE
 30179,Rotafolios,10,10,2,,TRUE,TRUE
-25711,"Perfil de la clienta, paq./50 (VersiÌÄå_n 12/09)",1.75,1.75,2,,TRUE,TRUE
-34328,Consultant Order Form (12/16/09 Ì¢‰âÂ‰ÛÏ 03/15/10),0.05,0.05,2,,TRUE,TRUE
+25711,"Perfil de la clienta, paq./50 (Versiï¿½ï¿½ï¿½_n 12/09)",1.75,1.75,2,,TRUE,TRUE
+34328,Consultant Order Form (12/16/09 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 03/15/10),0.05,0.05,2,,TRUE,TRUE
 35659,"Sales Tickets, pk./100 (Revised 12/09)",3,3,2,,TRUE,TRUE
 35660,"Recibos de ventas, paq./100 (Revisado 12/09)",3,3,2,,TRUE,TRUE
 34734,Brow Definer Pencil: Blonde,11,5.5,1,Brow Definer Pencil,FALSE,TRUE
@@ -3490,13 +3490,13 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 34731,Brow Definer Pencil: Brunette,11,5.5,1,Brow Definer Pencil,FALSE,TRUE
 34732,Brow Definer Pencil: Soft Black,11,5.5,1,,TRUE,TRUE
 34730,Brow Definer Pencil: Classic Blonde,11,5.5,1,Brow Definer Pencil,FALSE,TRUE
-28783,MenÌ¢‰âÂ‰ã¢s Fragrance: Domain Cologne Spray,38,19,1,Fragrances,FALSE,TRUE
+28783,MenÌ¢ï¿½ï¿½Â‰ï¿½s Fragrance: Domain Cologne Spray,38,19,1,Fragrances,FALSE,TRUE
 31567,Satin Lips Lip Mask,10,5,1,Other Lip Products;Customized Skin Care/Specific Needs,FALSE,TRUE
 33375,Satin Lips Set,18,9,1,Other Lip Products;Customized Skin Care/Specific Needs,FALSE,TRUE
 39175,Beauty Carryall,8,4,1,,TRUE,TRUE
 35083,TimeWise Body Targeted-Action Toning Lotion,30,15,1,TimeWise Anti-Aging,FALSE,TRUE
-32946,TimeWise Body Hand and DÌÄå©colletÌÄå© Cream Sunscreen SPF 15,18,9,1,,TRUE,TRUE
-28765,MenÌ¢‰âÂ‰ã¢s Body and Hair Shampoo: Velocity for Him,18,9,1,,TRUE,TRUE
+32946,TimeWise Body Hand and Dï¿½ï¿½ï¿½colletï¿½ï¿½ï¿½ Cream Sunscreen SPF 15,18,9,1,,TRUE,TRUE
+28765,MenÌ¢ï¿½ï¿½Â‰ï¿½s Body and Hair Shampoo: Velocity for Him,18,9,1,,TRUE,TRUE
 33568,Tropical Fruits Collection Cheek Glaze: Pomegranate,16,8,1,,TRUE,TRUE
 33569,Tropical Fruits Collection Cheek Glaze: Tangerine,16,8,1,,TRUE,TRUE
 33712,Tropical Fruits Collection: Cream Highlighter,14,7,1,,TRUE,TRUE
@@ -3515,13 +3515,13 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 31551,Oil-Free Hydrating Gel (Normal/Oily),32,16,1,Customized Skin Care/Specific Needs;Moisturization,FALSE,TRUE
 31573,Oil Mattifier,16,8,1,Customized Skin Care/Specific Needs;Oil Control,FALSE,TRUE
 31483,Extra Emollient Cleansing Cream,9.5,4.75,1,,TRUE,TRUE
-32953,"TimeWise Body Hand and DÌÄå©colletÌÄå© Cream Sunscreen SPF 15 Samplers, pk./6",4,4,2,,TRUE,TRUE
+32953,"TimeWise Body Hand and Dï¿½ï¿½ï¿½colletï¿½ï¿½ï¿½ Cream Sunscreen SPF 15 Samplers, pk./6",4,4,2,,TRUE,TRUE
 34258,Starter Kit Bag,18,18,2,,TRUE,TRUE
 33572,"Tropical Fruits Collection Sampler Card, pk./5",2,2,2,,TRUE,TRUE
 34358,"The Look (Spring 2010 issue), pk./10",3.5,3.5,2,,TRUE,TRUE
-34359,"La imagen (ediciÌÄå_n de primavera 2010), paq./10",3.5,3.5,2,,TRUE,TRUE
+34359,"La imagen (ediciï¿½ï¿½ï¿½_n de primavera 2010), paq./10",3.5,3.5,2,,TRUE,TRUE
 39173,"Start Earning Now Magazine, pk./5",2,2,2,,TRUE,TRUE
-39174,"Revista Comienza a ganar ÌâåÁya!, paq./5",2,2,2,,TRUE,TRUE
+39174,"Revista Comienza a ganar ï¿½ï¿½ï¿½ï¿½ya!, paq./5",2,2,2,,TRUE,TRUE
 37792,"Your Way to Beautiful Consumer Brochure, pk./10",1.5,1.5,2,,TRUE,TRUE
 37793,"Folleto para clientas Belleza a tu manera, paq./10",1.5,1.5,2,,TRUE,TRUE
 37199,"Spring 2010 Gift With Purchase: Sun Travel Set, pk./5",20,20,2,,TRUE,TRUE
@@ -3529,35 +3529,35 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 31583,"Intense Moisturizing Cream (Dry), pk./6",1.25,1.25,2,,TRUE,TRUE
 31585,"Oil-Free Hydrating Gel (Normal/Oily), pk./6",1.25,1.25,2,,TRUE,TRUE
 30180,"Beauty Book, pk./10 (3/10 Version)",2,2,2,,TRUE,TRUE
-30181,"Libro de belleza, paq./10 (VersiÌÄå_n 3/10)",2,2,2,,TRUE,TRUE
+30181,"Libro de belleza, paq./10 (Versiï¿½ï¿½ï¿½_n 3/10)",2,2,2,,TRUE,TRUE
 36476,"Independent Beauty Consultant Agreement, pk./5 (3/10 Version)",0.5,0.5,2,,TRUE,TRUE
-36477,"Acuerdo de Consultora de Belleza Independiente, paq./5 (VersiÌÄå_n 3/10)",0.5,0.5,2,,TRUE,TRUE
+36477,"Acuerdo de Consultora de Belleza Independiente, paq./5 (Versiï¿½ï¿½ï¿½_n 3/10)",0.5,0.5,2,,TRUE,TRUE
 30352,"Ready, Set, Sell! Inventory Options for New Consultants Brochure, pk./5",2,2,2,,TRUE,TRUE
 30353,"Folleto En sus marcas, listas y a vender!, paq.5",2,2,2,,TRUE,TRUE
 37797,"Team-Building Brochure, pk./6",1.75,1.75,2,,TRUE,TRUE
 37798,"Folleto de desarrolllo de equipo, paq./6",1.75,1.75,2,,TRUE,TRUE
 37799,"Team-Building Brochure (African-American), pk./6",1.75,1.75,2,,TRUE,TRUE
 36724,Consultants Guide,15,15,2,,TRUE,TRUE
-36725,GuÌÄå_a de Consultoras (versiÌÄå_n 3/10),15,15,2,,TRUE,TRUE
+36725,Guï¿½ï¿½ï¿½_a de Consultoras (versiï¿½ï¿½ï¿½_n 3/10),15,15,2,,TRUE,TRUE
 31515,Tinted Moisturizer SPF 20: Bronze 1,18,9,1,,TRUE,TRUE
-38641,Consultant Order Form (03/16/10 Ì¢‰âÂ‰ÛÏ 06/15/10),0.05,0.05,2,,TRUE,TRUE
+38641,Consultant Order Form (03/16/10 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 06/15/10),0.05,0.05,2,,TRUE,TRUE
 31511,Tinted Moisturizer SPF 20: Ivory 1,18,9,1,,TRUE,TRUE
 31514,Tinted Moisturizer SPF 20: Beige 2,18,9,1,,TRUE,TRUE
 31512,Tinted Moisturizer SPF 20: Ivory 2,18,9,1,,TRUE,TRUE
 31513,Tinted Moisturizer SPF 20: Beige 1,18,9,1,,TRUE,TRUE
 29741,"Facial Cleansing Cloths, pk./30",15,7.5,1,Customized Skin Care/Specific Needs,FALSE,TRUE
-37244,MotherÌ¢‰âÂ‰ã¢s Day Fragrance Set: Belara,55,27.5,1,,TRUE,TRUE
+37244,MotherÌ¢ï¿½ï¿½Â‰ï¿½s Day Fragrance Set: Belara,55,27.5,1,,TRUE,TRUE
 37243,Bella Belara,55,27.5,1,,TRUE,TRUE
 37245,Journey,55,27.5,1,,TRUE,TRUE
 31476,Advanced Moisture Renewal Treatment Cream,19,9.5,1,,TRUE,TRUE
-40171,MotherÌ¢‰âÂ‰ã¢s Day Fragrance Set (CDS): Journey,55,27.5,1,,TRUE,TRUE
+40171,MotherÌ¢ï¿½ï¿½Â‰ï¿½s Day Fragrance Set (CDS): Journey,55,27.5,1,,TRUE,TRUE
 33915,Pedicure Set,22,11,1,,TRUE,TRUE
 36854,Beauty That Counts Creme Lipstick: Compassion,13,6.5,1,,TRUE,TRUE
 36853,Beauty That Counts Creme Lipstick: Confidence,13,6.5,1,,TRUE,TRUE
 36852,Beauty That Counts Creme Lipstick: Inspiration,13,6.5,1,,TRUE,TRUE
 37246,"Beauty That Counts Creme Lipstick Sampler, pk./1",0.5,0.5,2,,TRUE,TRUE
-40172,MotherÌ¢‰âÂ‰ã¢s Day Fragrance Set (CDS): Belara,55,27.5,1,,TRUE,TRUE
-40173,MotherÌ¢‰âÂ‰ã¢s Day Fragrance Set (CDS): Bella Belara,55,27.5,1,,TRUE,TRUE
+40172,MotherÌ¢ï¿½ï¿½Â‰ï¿½s Day Fragrance Set (CDS): Belara,55,27.5,1,,TRUE,TRUE
+40173,MotherÌ¢ï¿½ï¿½Â‰ï¿½s Day Fragrance Set (CDS): Bella Belara,55,27.5,1,,TRUE,TRUE
 34039,Liquid Lip Color: Cherry Coffee,13,6.5,1,,TRUE,TRUE
 30424,Liquid Lip Color: Raspberry Ice,13,6.5,1,,TRUE,TRUE
 34042,Liquid Lip Color: Chocoholic,13,6.5,1,,TRUE,TRUE
@@ -3629,17 +3629,17 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 26288,Mineral Cheek Color Samplers: Citrus Bloom,1.25,1.25,2,,TRUE,TRUE
 38129,"Eau de Toilette Sampler Card, pk./6",1.25,1.25,2,,TRUE,TRUE
 34628,"The Look (Summer 2010 issue), pk./10",3.5,3.5,2,,TRUE,TRUE
-34629,"La imagen (ediciÌâå¢n de verano 2010), paq./10",3.5,3.5,2,,TRUE,TRUE
+34629,"La imagen (ediciï¿½ï¿½ï¿½n de verano 2010), paq./10",3.5,3.5,2,,TRUE,TRUE
 37941,Flip Chart (6/10 Version),10,10,2,,TRUE,TRUE
-37942,Rotafolios (VersiÌâå¢n 6/10),10,10,2,,TRUE,TRUE
+37942,Rotafolios (Versiï¿½ï¿½ï¿½n 6/10),10,10,2,,TRUE,TRUE
 40258,"Customer Profile (6/10 Version), pk./50",1.75,1.75,2,,TRUE,TRUE
-40259,"Perfil de la clienta (VersiÌâå¢n 6/10), paq./50",1.75,1.75,2,,TRUE,TRUE
+40259,"Perfil de la clienta (Versiï¿½ï¿½ï¿½n 6/10), paq./50",1.75,1.75,2,,TRUE,TRUE
 37749,Date Book (July 2010 ? Dec. 2011) bilingual,3,3,2,,TRUE,TRUE
 41348,"Beauty Book (6/10 Version), pk./10",2,2,2,,TRUE,TRUE
-41349,"Libro de belleza (VersiÌâå¢n 6/10), paq./10",2,2,2,,TRUE,TRUE
+41349,"Libro de belleza (Versiï¿½ï¿½ï¿½n 6/10), paq./10",2,2,2,,TRUE,TRUE
 31592,"Summer 2010 Gift With Purchase: Travel-Sized Sun Care Set, pk./5",20,20,2,,TRUE,TRUE
 031592-INDV,Summer 2010 Gift With Purchase: Travel-Sized Sun Care Set,4,4,2,,TRUE,TRUE
-38642,Consultant Order Form (6/16/10 Ì¢‰âÂ‰ÛÏ 9/15/10),0.05,0.05,2,,TRUE,TRUE
+38642,Consultant Order Form (6/16/10 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 9/15/10),0.05,0.05,2,,TRUE,TRUE
 32359,Satin Hands: Pampering Set - Vanilla Sugar,34,17,1,,TRUE,TRUE
 31817,Satin Hands: Hand Cream - Vanilla Sugar,10,5,1,,TRUE,TRUE
 37726,Women's Fragrance: Thinking of You Eau de Parfum,32,16,1,Fragrances,FALSE,TRUE
@@ -3674,7 +3674,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 38871,"Color Cards, pk./5: Reds",1.5,1.5,2,,TRUE,TRUE
 38869,"Color Cards, pk./5: Neutrals",1.5,1.5,2,,TRUE,TRUE
 34636,"The Look (Fall/Holiday 2010 issue), pk./10",3.5,3.5,2,,TRUE,TRUE
-34637,"La imagen (ediciÌÄå_n de otoÌÄå±o/fin de aÌÄå±o 2010), paq./10",3.5,3.5,2,,TRUE,TRUE
+34637,"La imagen (ediciï¿½ï¿½ï¿½_n de otoï¿½ï¿½ï¿½o/fin de aï¿½ï¿½ï¿½o 2010), paq./10",3.5,3.5,2,,TRUE,TRUE
 35827,"Fall/Holiday 2010 Gift With Purchase: Mini Eau de Toilette Body Lotion Set, pk./5",20,20,2,,TRUE,TRUE
 035827-INDV,Fall/Holiday 2010 Gift With Purchase: Mini Eau de Toilette Body Lotion Set,4,4,2,,TRUE,TRUE
 42084,Color Collections - Color Card Looks: Berries,113.5,56.75,1,,TRUE,TRUE
@@ -3728,11 +3728,11 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 42014,Medium-Coverage Foundation: Bronze 708,18,9,1,Medium-Coverage Foundation,FALSE,TRUE
 42015,Medium-Coverage Foundation: Bronze 808,15,7.5,1,,TRUE,TRUE
 34677,"The Look (Winter 2010 issue), pk./10",3.5,3.5,2,,TRUE,TRUE
-34678,"La imagen (ediciÌÄå_n de invierno 2010), paq./10",3.5,3.5,2,,TRUE,TRUE
+34678,"La imagen (ediciï¿½ï¿½ï¿½_n de invierno 2010), paq./10",3.5,3.5,2,,TRUE,TRUE
 27075,"Fall/Holiday 2012 Gift With Purchase: Mini Fragrance-Free Satin Hands Pampering Set, pk./5",20,20,2,,TRUE,TRUE
 027075-INDV,Fall/Holiday 2012 Gift With Purchase: Mini Fragrance-Free Satin Hands Pampering Set,4,4,2,,TRUE,TRUE
 42115,"Steps to Success Career Path Brochure, pk./5",2,2,2,,TRUE,TRUE
-42116,"Folleto de la trayectoria profesional Camino al ÌÄå©xito, paq./5",2,2,2,,TRUE,TRUE
+42116,"Folleto de la trayectoria profesional Camino al ï¿½ï¿½ï¿½xito, paq./5",2,2,2,,TRUE,TRUE
 44131,"Team-Building Brochure, pk./6",1.75,1.75,2,,TRUE,TRUE
 39647,"Color Cards, pk./5: Tawnies",1.5,1.5,2,,TRUE,TRUE
 39648,"Color Cards, pk./5: Chocolates",1.5,1.5,2,,TRUE,TRUE
@@ -3746,11 +3746,11 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 40986,Mineral Powder Foundation: Beige 0.5,20,10,1,Mineral Powder Foundation,FALSE,TRUE
 43431,Foundation Finder Tool,5,5,2,,TRUE,TRUE
 43988,"Beauty Book (3/11 Version), pk./10",2,2,2,,TRUE,TRUE
-43989,"Libro de belleza (VersiÌÄå_n 3/11), paq./10",2,2,2,,TRUE,TRUE
+43989,"Libro de belleza (Versiï¿½ï¿½ï¿½_n 3/11), paq./10",2,2,2,,TRUE,TRUE
 42563,Flip Chart (3/11 Version),10,10,2,,TRUE,TRUE
-42564,Rotafolios (VersiÌÄå_n 3/11),10,10,2,,TRUE,TRUE
+42564,Rotafolios (Versiï¿½ï¿½ï¿½_n 3/11),10,10,2,,TRUE,TRUE
 43448,"Customer Profile (3/11 Version), pk./50",1.75,1.75,2,,TRUE,TRUE
-43449,"Perfil de la clienta (VersiÌÄå_n 3/11), paq./50",1.75,1.75,2,,TRUE,TRUE
+43449,"Perfil de la clienta (Versiï¿½ï¿½ï¿½_n 3/11), paq./50",1.75,1.75,2,,TRUE,TRUE
 38750,TW Matte-Wear Liquid Foundation: Ivory 1,22,11,1,TimeWise Matte-Wear Liquid Foundation (Best for Combination to Oily),FALSE,TRUE
 38762,TW Matte-Wear Liquid Foundation: Beige 6,22,11,1,TimeWise Matte-Wear Liquid Foundation (Best for Combination to Oily),FALSE,TRUE
 38751,TW Matte-Wear Liquid Foundation: Ivory 2,22,11,1,TimeWise Matte-Wear Liquid Foundation (Best for Combination to Oily),FALSE,TRUE
@@ -3854,9 +3854,9 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 33942,Mesh Zip Bag,1,1,2,Skin Care Class Supplies,FALSE,TRUE
 34257,Magnified Mirror,2,2,2,While Supplies Last;Section 2: Promo,TRUE,TRUE
 47102,"Independent Beauty Consultant Agreement (3/11 Version), pk./5",0.5,0.5,2,,TRUE,TRUE
-47103,"Acuerdo de Consultora de Belleza Independiente (VersiÌÄå_n 3/11), paq./5",0.5,0.5,2,,TRUE,TRUE
+47103,"Acuerdo de Consultora de Belleza Independiente (Versiï¿½ï¿½ï¿½_n 3/11), paq./5",0.5,0.5,2,,TRUE,TRUE
 42396,"The Look (Spring 2011 issue), pk./10",3.5,3.5,2,,TRUE,TRUE
-42383,"La imagen (ediciÌÄå_n de primavera 2011), paq./10",3.5,3.5,2,,TRUE,TRUE
+42383,"La imagen (ediciï¿½ï¿½ï¿½_n de primavera 2011), paq./10",3.5,3.5,2,,TRUE,TRUE
 44387,"Hostess Brochure, pk./10",3,3,2,,TRUE,TRUE
 44388,"Folleto de anfitrionas, paq./10",3,3,2,,TRUE,TRUE
 44386,"Class/Party Postcards, pk./20",1,1,2,,TRUE,TRUE
@@ -3876,8 +3876,8 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 40994,Mineral Powder Foundation: Bronze 5,20,10,1,Mineral Powder Foundation,FALSE,TRUE
 40792,Creme Lipstick Samplers: Hibiscus,1.25,1.25,2,,TRUE,TRUE
 44255,Pedicure Set,22,11,1,,TRUE,TRUE
-42485,Bella Belara MotherÌ¢‰âÂ‰ã¢s Day Set,45,22.5,1,,TRUE,TRUE
-42486,Simply Cotton MotherÌ¢‰âÂ‰ã¢s Day Set,35,17.5,1,,TRUE,TRUE
+42485,Bella Belara MotherÌ¢ï¿½ï¿½Â‰ï¿½s Day Set,45,22.5,1,,TRUE,TRUE
+42486,Simply Cotton MotherÌ¢ï¿½ï¿½Â‰ï¿½s Day Set,35,17.5,1,,TRUE,TRUE
 30175,"MKMen Large Plastic Delivery Bag, pk./25",2.25,2.25,2,,TRUE,TRUE
 44774,NouriShine Lip Gloss Samplers: NouriShine Lip Gloss Pink Diamonds Samplers,1.25,1.25,2,,TRUE,TRUE
 40793,Creme Lipstick Samplers: Mocha Freeze,1.25,1.25,2,,TRUE,TRUE
@@ -3910,11 +3910,11 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 47567,Color 101 Collection: Sunset Glow,113.5,56.75,1,,TRUE,TRUE
 41464,"Lash Love Sampler Wands, pk./6",2.25,2.25,2,Applicators (disposable),FALSE,TRUE
 43247,"The Look (Summer 2011 issue), pk./10",3.5,3.5,2,,TRUE,TRUE
-43251,"La imagen (ediciÌÄå_n de verano 2011), paq./10",3.5,3.5,2,,TRUE,TRUE
+43251,"La imagen (ediciï¿½ï¿½ï¿½_n de verano 2011), paq./10",3.5,3.5,2,,TRUE,TRUE
 46290,"Team-Building Brochure, pk./6",1.75,1.75,2,,TRUE,TRUE
 46291,"Folleto de desarrollo de equipo, paq./6",1.75,1.75,2,,TRUE,TRUE
 46292,"Team-Building Brochure (African-American), pk./6",1.75,1.75,2,,TRUE,TRUE
-50306,Foundation Finder Tool (Includes ring) (bilingual/bilingÌÄå_e),6,6,2,,TRUE,TRUE
+50306,Foundation Finder Tool (Includes ring) (bilingual/bilingï¿½ï¿½ï¿½_e),6,6,2,,TRUE,TRUE
 44612,"Summer 2011 Gift With Purchase: Mini TimeWise Even Complexion Essence and TimeWise Even Complexion Mask with headband, pk./5",20,20,2,,TRUE,TRUE
 044612-INDV,Summer 2011 Gift With Purchase: Mini TimeWise Even Complexion Essence and TimeWise Even Complexion Mask with headband,4,4,2,,TRUE,TRUE
 46050,Cards-Praise 12/pk-3/2011,2,2,2,,TRUE,TRUE
@@ -3970,15 +3970,15 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 8046044,Champagne Business Card Case,2,2,2,,TRUE,TRUE
 8045586,Champagne Business Tote,10,10,2,,TRUE,TRUE
 8046046,Leopard Mug,3,3,2,,TRUE,TRUE
-8028148,MKÌâå¨ Custom Package Tape With Dispenser Set,5,5,2,,TRUE,TRUE
-8033485,"Recognition Ribbon - Mary KayÌâå¨ Angel, pk./10",2.25,2.25,2,,TRUE,TRUE
+8028148,MKï¿½ï¿½ï¿½ Custom Package Tape With Dispenser Set,5,5,2,,TRUE,TRUE
+8033485,"Recognition Ribbon - Mary Kayï¿½ï¿½ï¿½ Angel, pk./10",2.25,2.25,2,,TRUE,TRUE
 8033496,"Recognition Ribbon - You're Wonderful, pk./10",2.25,2.25,2,,TRUE,TRUE
 41270,TimeWise Night Restore & Recover Complex: Normal/Dry,40,20,1,TimeWise Anti-Aging,FALSE,TRUE
 41281,TimeWise Night Restore & Recover Complex: Combination/Oily,40,20,1,TimeWise Anti-Aging,FALSE,TRUE
 41292,TimeWise Night Restore & Recover Complex (Normal/Dry) Samplers,1.25,1.25,2,,TRUE,TRUE
 41294,TimeWise Night Restore & Recover Complex (Combination/Oily) Samplers,1.25,1.25,2,,TRUE,TRUE
 49119,"Customer Profile (9/11 Version), pk./50",1.75,1.75,2,,TRUE,TRUE
-49120,"Perfil de la clienta (VersiÌÄå_n 9/11), paq./50",1.75,1.75,2,,TRUE,TRUE
+49120,"Perfil de la clienta (Versiï¿½ï¿½ï¿½_n 9/11), paq./50",1.75,1.75,2,,TRUE,TRUE
 45193,Beauty That Counts Creme Lipstick: Give Dreams,13,6.5,1,,TRUE,TRUE
 45192,Beauty That Counts Creme Lipstick: Give Joy,13,6.5,1,,TRUE,TRUE
 45194,Beauty That Counts Creme Lipstick: Give Hope,13,6.5,1,,TRUE,TRUE
@@ -4004,7 +4004,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 45199,"Beauty That Counts Creme Lipstick Sampler Card, pk./1",0.5,0.5,2,,TRUE,TRUE
 45810,"Redefining Elegance Collection Sampler Card, pk./5",3,3,2,,TRUE,TRUE
 43252,"The Look (Fall/Holiday 2011 issue), pk./10",3.5,3.5,2,,TRUE,TRUE
-43295,"La imagen (ediciÌâå¢n de otoÌâå_o/fin de aÌâå_o 2011), paq./10",3.5,3.5,2,,TRUE,TRUE
+43295,"La imagen (ediciï¿½ï¿½ï¿½n de otoï¿½ï¿½ï¿½_o/fin de aï¿½ï¿½ï¿½_o 2011), paq./10",3.5,3.5,2,,TRUE,TRUE
 44135,"Mini Night Restore & Recover Complex With Mini Microdermabrasion Set (Normal/Dry), pk./5",20,20,2,,TRUE,TRUE
 44633,"Mini Night Restore & Recover Complex With Mini Microdermabrasion Set (Combination/Oily), pk./5",20,20,2,,TRUE,TRUE
 044633-INDV,Mini Night Restore & Recover Complex With Mini Microdermabrasion Set (Combination/Oily),4,4,2,,TRUE,TRUE
@@ -4012,7 +4012,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 45080,TimeWise Microdermabrasion Great Deal Set,55,27.5,1,,TRUE,TRUE
 44059,Consultant Order Form (9/16/2011 - 12/15/2011),0.05,0.05,2,,TRUE,TRUE
 51281,"Steps to Success Career Path Brochure, pk./5",2,2,2,,TRUE,TRUE
-51282,"Folletos de la trayectoria profesional Camino al ÌÄå©xito, paq./5",2,2,2,,TRUE,TRUE
+51282,"Folletos de la trayectoria profesional Camino al ï¿½ï¿½ï¿½xito, paq./5",2,2,2,,TRUE,TRUE
 55335,Bella Belara Gift Set,35,17.5,1,,TRUE,TRUE
 55336,Belara Gift Set,35,17.5,1,,TRUE,TRUE
 55337,Velocity Gift Set,35,17.5,1,,TRUE,TRUE
@@ -4026,7 +4026,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 47941,NouriShine Plus Lip Gloss: Pink Luster,15,7.5,1,NouriShine Plus Lip Gloss,FALSE,TRUE
 47946,NouriShine Plus Lip Gloss: Berry Tart,14,7,1,,TRUE,TRUE
 47937,NouriShine Plus Lip Gloss: Pink Parfait,15,7.5,1,NouriShine Plus Lip Gloss,FALSE,TRUE
-47949,NouriShine Plus Lip Gloss: CafÌÄå© au Lait,15,7.5,1,NouriShine Plus Lip Gloss,FALSE,TRUE
+47949,NouriShine Plus Lip Gloss: Cafï¿½ï¿½ï¿½ au Lait,15,7.5,1,NouriShine Plus Lip Gloss,FALSE,TRUE
 47939,NouriShine Plus Lip Gloss: Pink Sateen,14,7,1,,TRUE,TRUE
 47925,NouriShine Plus Lip Gloss: Cream and Sugar,14,7,1,,TRUE,TRUE
 47955,NouriShine Plus Lip Gloss: Red Passion,15,7.5,1,NouriShine Plus Lip Gloss,FALSE,TRUE
@@ -4062,14 +4062,14 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 48005,NouriShine Plus Lip Gloss Samplers: Pink Luster,1.25,1.25,2,NouriShine Plus Lip Gloss Samplers,FALSE,TRUE
 48010,NouriShine Plus Lip Gloss Samplers: Berry Tart,1,1,2,While Supplies Last;NouriShine Plus Lip Gloss Samplers,TRUE,TRUE
 47999,NouriShine Plus Lip Gloss Samplers: Pink Parfait,1.25,1.25,2,NouriShine Plus Lip Gloss Samplers,FALSE,TRUE
-48013,NouriShine Plus Lip Gloss Samplers: CafÌÄå© au Lait,1.25,1.25,2,NouriShine Plus Lip Gloss Samplers,FALSE,TRUE
+48013,NouriShine Plus Lip Gloss Samplers: Cafï¿½ï¿½ï¿½ au Lait,1.25,1.25,2,NouriShine Plus Lip Gloss Samplers,FALSE,TRUE
 48002,NouriShine Plus Lip Gloss Samplers: Pink Sateen,1,1,2,While Supplies Last;NouriShine Plus Lip Gloss Samplers,TRUE,TRUE
 47987,NouriShine Plus Lip Gloss Samplers: Cream and Sugar,1.25,1.25,2,While Supplies Last,FALSE,TRUE
 48020,NouriShine Plus Lip Gloss Samplers: Red Passion,1.25,1.25,2,NouriShine Plus Lip Gloss Samplers,FALSE,TRUE
 47997,NouriShine Plus Lip Gloss Samplers: Fancy Nancy,1.25,1.25,2,NouriShine Plus Lip Gloss Samplers,FALSE,TRUE
 48015,NouriShine Plus Lip Gloss Samplers: Rich Spice,1.25,1.25,2,NouriShine Plus Lip Gloss Samplers,FALSE,TRUE
 47990,NouriShine Plus Lip Gloss Samplers: Icicle,1.25,1.25,2,,TRUE,TRUE
-48018,NouriShine Plus Lip Gloss Samplers: Rock Ì¢‰âÂ‰ã¢nÌ¢‰âÂ‰ã¢ Red,1.25,1.25,2,NouriShine Plus Lip Gloss Samplers,FALSE,TRUE
+48018,NouriShine Plus Lip Gloss Samplers: Rock Ì¢ï¿½ï¿½Â‰ï¿½nÌ¢ï¿½ï¿½Â‰ï¿½ Red,1.25,1.25,2,NouriShine Plus Lip Gloss Samplers,FALSE,TRUE
 48456,"Lip Liner Samplers, pk./6: Cappuccino",1.5,1.5,2,,TRUE,TRUE
 48454,"Lip Liner Samplers, pk./6: Neutral",1.5,1.5,2,Lip Liner Samplers,FALSE,TRUE
 48460,"Lip Liner Samplers, pk./6: Caramel",1.5,1.5,2,,TRUE,TRUE
@@ -4091,7 +4091,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 51857,"Color Cards, pk./5: Chocolates",1.5,1.5,2,,TRUE,TRUE
 51854,"Color Cards, pk./5: Tawnies",1.5,1.5,2,,TRUE,TRUE
 43412,"The Look (Winter 2011 issue), pk./10",3.5,3.5,2,,TRUE,TRUE
-43287,"La imagen (ediciÌÄå_n invierno 2011), paq./10",3.5,3.5,2,,TRUE,TRUE
+43287,"La imagen (ediciï¿½ï¿½ï¿½_n invierno 2011), paq./10",3.5,3.5,2,,TRUE,TRUE
 46590,"Winter 2011 Gift With Purchase: Mini NouriShine Plus Lip Gloss Set, pk./5",20,20,2,,TRUE,TRUE
 046590-INDV,Winter 2011 Gift With Purchase: Mini NouriShine Plus Lip Gloss Set,4,4,2,,TRUE,TRUE
 44007,Consultant Order Form (12/10/2011 - 3/15/2012),0.05,0.05,2,,TRUE,TRUE
@@ -4110,7 +4110,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 52063,Mint Blossom Pedicure Set,24,12,1,,TRUE,TRUE
 52195,Mint Blossom Foot Scrub,10,5,1,,TRUE,TRUE
 52197,Mint Blossom Foot Fizzies,10,5,1,,TRUE,TRUE
-51462,Thinking of You MotherÌ¢‰âÂ‰ã¢s Day Set,30,15,1,,TRUE,TRUE
+51462,Thinking of You MotherÌ¢ï¿½ï¿½Â‰ï¿½s Day Set,30,15,1,,TRUE,TRUE
 50165,Sun Care After-Sun Replenishing Gel,14,7,1,New & Ltd Edition,FALSE,TRUE
 50907,Dual Lip Glaze: Glistening Sand,14,7,1,,TRUE,TRUE
 50908,Dual Lip Glaze: Warm Coral,14,7,1,,TRUE,TRUE
@@ -4137,31 +4137,31 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 49604,"Botanical Effects Samplers, pk./6: Hydrate Formula 2 (Normal Skin)",1.5,1.5,2,While Supplies Last,FALSE,TRUE
 49606,"Botanical Effects Samplers, pk./6: Hydrate Formula 3 (Oily Skin)",1.5,1.5,2,While Supplies Last,FALSE,TRUE
 54108,"Foundation Primer SPF 15 Samplers, pk./6",1.5,1.5,2,"Foundation Primer Sunscreen Broad Spectrum SPF 15 Samplers, pk.6",FALSE,TRUE
-51482,"Beauty Book With InstructorÌ¢‰âÂ‰ã¢s Guide (3/12 version), pk./10",2,2,2,,TRUE,TRUE
-51483,"Libro de belleza guiadela instructora (VersiÌÄå_n 3/12), paq./10",2,2,2,,TRUE,TRUE
+51482,"Beauty Book With InstructorÌ¢ï¿½ï¿½Â‰ï¿½s Guide (3/12 version), pk./10",2,2,2,,TRUE,TRUE
+51483,"Libro de belleza guiadela instructora (Versiï¿½ï¿½ï¿½_n 3/12), paq./10",2,2,2,,TRUE,TRUE
 52382,Starter Kit Bag,35,35,2,Skin Care Class Supplies,FALSE,TRUE
 54288,Organizer Caddy,15,15,2,Skin Care Class Supplies,FALSE,TRUE
 56953,"Independent Beauty Consultant Agreement (3/12 Version), pk./5",0.5,0.5,2,,TRUE,TRUE
-56954,"Acuerdo de Consultora de Belleza Independiente (VersiÌÄå_n 3/12), paq./5",0.5,0.5,2,,TRUE,TRUE
+56954,"Acuerdo de Consultora de Belleza Independiente (Versiï¿½ï¿½ï¿½_n 3/12), paq./5",0.5,0.5,2,,TRUE,TRUE
 56490,Start Something Beautiful DVD,5,5,2,,TRUE,TRUE
 56491,Comienza algo hermoso DVD,5,5,2,,TRUE,TRUE
 56736,21st Century Customer Service (2 CD set),4,4,2,,TRUE,TRUE
-56951,Juego de 2 CDÌ¢‰âÂ‰ã¢s Servicio al cliente del siglo XXI,4,4,2,,TRUE,TRUE
+56951,Juego de 2 CDÌ¢ï¿½ï¿½Â‰ï¿½s Servicio al cliente del siglo XXI,4,4,2,,TRUE,TRUE
 51891,"The Look (Spring 2012 issue), pk./10",3.5,3.5,2,,TRUE,TRUE
-51892,"La imagen (ediciÌÄå_n primavera 2012), paq./10",3.5,3.5,2,,TRUE,TRUE
-53237,"Spring 2012 Gift With Purchase: TimeWise Mini Body Targeted Action Toning Lotion and Hand and DÌÄå©colletÌÄå© Cream Sunscreen SPF 15, pk. 5",20,20,2,,TRUE,TRUE
-053237-INDV,Spring 2012 Gift With Purchase: TimeWise Mini Body Targeted Action Toning Lotion and Hand and DÌÄå©colletÌÄå© Cream Sunscreen SPF 15,4,4,2,,TRUE,TRUE
+51892,"La imagen (ediciï¿½ï¿½ï¿½_n primavera 2012), paq./10",3.5,3.5,2,,TRUE,TRUE
+53237,"Spring 2012 Gift With Purchase: TimeWise Mini Body Targeted Action Toning Lotion and Hand and Dï¿½ï¿½ï¿½colletï¿½ï¿½ï¿½ Cream Sunscreen SPF 15, pk. 5",20,20,2,,TRUE,TRUE
+053237-INDV,Spring 2012 Gift With Purchase: TimeWise Mini Body Targeted Action Toning Lotion and Hand and Dï¿½ï¿½ï¿½colletï¿½ï¿½ï¿½ Cream Sunscreen SPF 15,4,4,2,,TRUE,TRUE
 53808,"Customer Profile (3/12 Version), pk./25",1.25,1.25,2,,TRUE,TRUE
-53809,"Perfil de la clienta (VersiÌÄå_n 3/12), paq./25",1.25,1.25,2,,TRUE,TRUE
+53809,"Perfil de la clienta (Versiï¿½ï¿½ï¿½_n 3/12), paq./25",1.25,1.25,2,,TRUE,TRUE
 54689,"Team-Building Brochure, pk./6",1.75,1.75,2,,TRUE,TRUE
 54690,"Folleto de desarrollo de equipo, paq./6",1.75,1.75,2,,TRUE,TRUE
 54691,"Team-Building Brochure (African-American), pk./6",1.75,1.75,2,,TRUE,TRUE
 45038,"Start Earning Now Magazine (3/12 Version), pk./5",2,2,2,,TRUE,TRUE
-45039,"Revista Comienza a ganar ÌâåÁya!, paq./5 (VersiÌÄå_n 3/12)",2,2,2,,TRUE,TRUE
+45039,"Revista Comienza a ganar ï¿½ï¿½ï¿½ï¿½ya!, paq./5 (Versiï¿½ï¿½ï¿½_n 3/12)",2,2,2,,TRUE,TRUE
 48219,Consultants Guide: Business and Product Basics,7.5,7.5,2,,TRUE,TRUE
-48220,GuÌÄå_a de Consultoras Aspectos bÌÄåÁsicos de negocios y de negocios y productos,7.5,7.5,2,,TRUE,TRUE
+48220,Guï¿½ï¿½ï¿½_a de Consultoras Aspectos bï¿½ï¿½ï¿½ï¿½sicos de negocios y de negocios y productos,7.5,7.5,2,,TRUE,TRUE
 45085,"Ready, Set, Sell! Inventory Options for New Consultants Brochure, pk./5",2,2,2,,TRUE,TRUE
-45086,"Folleto En sus marcas, listas ÌâåÁy a vender! Opciones de inventario para nuevas Consultoras, paq./5",2,2,2,,TRUE,TRUE
+45086,"Folleto En sus marcas, listas ï¿½ï¿½ï¿½ï¿½y a vender! Opciones de inventario para nuevas Consultoras, paq./5",2,2,2,,TRUE,TRUE
 54102,TimeWise Age-Fighting Moisturizer Sunscreen SPF 30,24,12,1,TimeWise Anti-Aging;Moisturization,FALSE,TRUE
 54119,TimeWise Miracle Set: Normal/Dry,90,45,1,,TRUE,TRUE
 54120,TimeWise Miracle Set: Combination/Oily,90,45,1,,TRUE,TRUE
@@ -4175,7 +4175,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 54122,"TimeWise Day Solution Suncreen SPF 35 / Night Solution Samplers, 6 pairs",2,2,2,,TRUE,TRUE
 55587,Consultant Order Form (3/16/2012 - 6/15/2012),0.05,0.05,2,,TRUE,TRUE
 32554,Starting Points CD (Bilingual),2,2,2,,TRUE,TRUE
-54325,TimeWise Body Hand and DÌÄå©colletÌÄå© Cream SPF 15,18,9,1,,TRUE,TRUE
+54325,TimeWise Body Hand and Dï¿½ï¿½ï¿½colletï¿½ï¿½ï¿½ Cream SPF 15,18,9,1,,TRUE,TRUE
 54329,Tinted Moisturizer SPF 20: Ivory 2,18,9,1,,TRUE,TRUE
 54330,Tinted Moisturizer SPF 20: Beige 1,18,9,1,,TRUE,TRUE
 55365,MKMen: Moisturizer SPF 25,22,11,1,,TRUE,TRUE
@@ -4184,12 +4184,12 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 54332,Tinted Moisturizer SPF 20: Bronze 1,18,9,1,,TRUE,TRUE
 54333,Tinted Moisturizer SPF 20: Bronze 2,18,9,1,,TRUE,TRUE
 55844,MKMen: Face Bar,12,6,1,MKMen Skin Care,FALSE,TRUE
-54522,"TimeWise Body Hand and DÌÄå©colletÌÄå© Cream SPF 15 Samplers, pk./6",6,6,2,,TRUE,TRUE
+54522,"TimeWise Body Hand and Dï¿½ï¿½ï¿½colletï¿½ï¿½ï¿½ Cream SPF 15 Samplers, pk./6",6,6,2,,TRUE,TRUE
 51893,"The Look (Summer 2012 issue), pk./10",3.5,3.5,2,,TRUE,TRUE
 55015,Great Deal: TW Complexion Perfection (Includes Full-Size TW Even Complexion Essence & Mini Microderm Set),35,17.5,1,,TRUE,TRUE
 55588,Consultant Order Form (6/16/2012 - 9/15/2012),0.05,0.05,2,,TRUE,TRUE
 56735,Date Book (July 2012 - Dec. 2013) (bilingual),3,3,2,,TRUE,TRUE
-51894,"La imagen (ediciÌÄå_n de verano 2012), paq./10",3.5,3.5,2,,TRUE,TRUE
+51894,"La imagen (ediciï¿½ï¿½ï¿½_n de verano 2012), paq./10",3.5,3.5,2,,TRUE,TRUE
 46188,Lash & Brow Building Serum,36,18,1,Lash,FALSE,TRUE
 46176,Lash Primer,15,7.5,1,Lash,FALSE,TRUE
 44465,Lash Love Waterproof Mascara: I love black,15,7.5,1,Mascara,FALSE,TRUE
@@ -4216,18 +4216,18 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 46726,Mineral Eye Color Samplers: Gold Coast,1.25,1.25,2,Mineral Eye Color Samplers,FALSE,TRUE
 46628,Mineral Cheek Color Samplers: Dark Cherry,1.25,1.25,2,,TRUE,TRUE
 55581,"Spring 2013 Gift With Purchase: Mini Lash Love Mascara w/Mini Oil-Free Eye Makeup Remover, pk./5",20,20,2,,TRUE,TRUE
-055581-INDV,Summer 2012 Gift With Purchase: Mini Lash Love Mascara in I Ì¢‰ã¢åÁ black with Mini Oil-Free Eye Makeup Remover in a black mesh bag,4,4,2,,TRUE,TRUE
-63076,Treat for Feet Bundle Ì¢‰âÂ‰ÛÏ Crushed Pearl,20,10,1,,TRUE,TRUE
-63074,Treat for Feet Bundle Ì¢‰âÂ‰ÛÏ Lava,20,10,1,,TRUE,TRUE
-53239,Miracles Happen Ì¢‰âÂ‰ÛÏ Mary Kay Autobiography (Audiobook),10,10,2,More on Mary Kay;Mary Kay Culture,FALSE,TRUE
-53240,Ocurren los milagros Ì¢‰âÂ‰ÛÏ AutobiografÌÄå_a de Mary Kay (Audio libro en espaÌÄå±ol),10,10,2,More on Mary Kay;Mary Kay Culture,FALSE,TRUE
+055581-INDV,Summer 2012 Gift With Purchase: Mini Lash Love Mascara in I Ì¢ï¿½ï¿½ï¿½ï¿½ black with Mini Oil-Free Eye Makeup Remover in a black mesh bag,4,4,2,,TRUE,TRUE
+63076,Treat for Feet Bundle Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Crushed Pearl,20,10,1,,TRUE,TRUE
+63074,Treat for Feet Bundle Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Lava,20,10,1,,TRUE,TRUE
+53239,Miracles Happen Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Mary Kay Autobiography (Audiobook),10,10,2,More on Mary Kay;Mary Kay Culture,FALSE,TRUE
+53240,Ocurren los milagros Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Autobiografï¿½ï¿½ï¿½_a de Mary Kay (Audio libro en espaï¿½ï¿½ï¿½ol),10,10,2,More on Mary Kay;Mary Kay Culture,FALSE,TRUE
 54396,TimeWise Repair: Volu-Firm Set,205,102.5,1,TimeWise Repair,FALSE,TRUE
 53074,TimeWise Repair: Volu-Firm Foaming Cleanser,28,14,1,TimeWise Repair,FALSE,TRUE
 54399,TimeWise Repair: Volu-Firm Day Cream Sunscreen,52,26,1,TimeWise Repair,FALSE,TRUE
 52885,TimeWise Repair: Volu-Firm Night Treatment With Retinol,52,26,1,TimeWise Repair,FALSE,TRUE
 47376,TimeWise Repair: Volu-Firm Eye Renewal Cream,42,21,1,TimeWise Repair;Other Eye Products,FALSE,TRUE
 48848,TimeWise Repair: Volu-Firm Lifting Serum,70,35,1,TimeWise Repair,FALSE,TRUE
-48515,MenÌâ‰Ûªs Fragrance: True Original Cologne Spray,36,18,1,Fragrances,FALSE,TRUE
+48515,Menï¿½ï¿½Ûªs Fragrance: True Original Cologne Spray,36,18,1,Fragrances,FALSE,TRUE
 52455,NouriShine Plus Lip Gloss: Inspiring,14,7,1,,TRUE,TRUE
 52456,NouriShine Plus Lip Gloss: Possibilities,14,7,1,,TRUE,TRUE
 56218,Bold Shine Lip Color: Radiant Red,15,7.5,1,,TRUE,TRUE
@@ -4246,23 +4246,23 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 60350,Color 101 Collections: Beautiful Basics,118.5,59.25,1,,TRUE,TRUE
 60349,Color 101 Collections: Vintage Vogue,118.5,59.25,1,,TRUE,TRUE
 62235,"Independent Beauty Consultant Agreement (9/12 Version), pk./5",0.5,0.5,2,,TRUE,TRUE
-62236,"Acuerdo de Consultora de Belleza Independiente (VersiÌÄå_n 9/12), paq./5",0.5,0.5,2,,TRUE,TRUE
+62236,"Acuerdo de Consultora de Belleza Independiente (Versiï¿½ï¿½ï¿½_n 9/12), paq./5",0.5,0.5,2,,TRUE,TRUE
 55799,"Steps to Success Career Path Brochure, pk./5",2,2,2,,TRUE,TRUE
-55801,"Folleto de la trayectoria profesional Camino al ÌÄå©xito, paq./5",2,2,2,,TRUE,TRUE
+55801,"Folleto de la trayectoria profesional Camino al ï¿½ï¿½ï¿½xito, paq./5",2,2,2,,TRUE,TRUE
 57046,"Ready, Set, Sell! Inventory Options for New Consultants Brochure, pk./5",2,2,2,,TRUE,TRUE
-57047,"Folleto En sus marcas, listas ÌâåÁy a vender! Opciones de inventario para nuevas Consultoras, paq./5",2,2,2,,TRUE,TRUE
+57047,"Folleto En sus marcas, listas ï¿½ï¿½ï¿½ï¿½y a vender! Opciones de inventario para nuevas Consultoras, paq./5",2,2,2,,TRUE,TRUE
 56492,Start Something Beautiful DVD,5,5,2,,TRUE,TRUE
 56493,Comienza algo hermoso DVD,5,5,2,,TRUE,TRUE
-57558,"Beauty Book With InstructorÌ¢‰âÂ‰ã¢s Guide (9/12 Version), pk./10",2.5,2.5,2,,TRUE,TRUE
-57559,"Libro de belleza guiadela instructora (VersiÌÄå_n 9/12), paq./10",2.5,2.5,2,,TRUE,TRUE
+57558,"Beauty Book With InstructorÌ¢ï¿½ï¿½Â‰ï¿½s Guide (9/12 Version), pk./10",2.5,2.5,2,,TRUE,TRUE
+57559,"Libro de belleza guiadela instructora (Versiï¿½ï¿½ï¿½_n 9/12), paq./10",2.5,2.5,2,,TRUE,TRUE
 55797,"Customer Profile (8/12 Version), pk./25",1.25,1.25,2,,TRUE,TRUE
-55798,"Perfil de la clienta (VersiÌÄå_n 8/12), paq./25",1.25,1.25,2,,TRUE,TRUE
+55798,"Perfil de la clienta (Versiï¿½ï¿½ï¿½_n 8/12), paq./25",1.25,1.25,2,,TRUE,TRUE
 54405,"TimeWise Repair Volu-Firm Sampler Set, pk./3",4,4,2,TimeWise Repair Samplers;Product Samples,FALSE,TRUE
 48518,"Fragrance Towelette Sampler: True Original, pk/6",1,1,2,Fragrance Towelette Samplers;Fragrance Sampler Card,FALSE,TRUE
 56232,"Hollywood Mystique Collection Sampler Card, pk./5",3,3,2,,TRUE,TRUE
 56321,"Dance to Life Sampler Vials, pk./6",4,4,2,,TRUE,TRUE
 51895,"The Look (Fall/Holiday 2012 issue), pk./10",3.5,3.5,2,,TRUE,TRUE
-51896,"La imagen (ediciÌÄå_n de otono/fin de aÌÄå±o 2012), paq./10",3.5,3.5,2,,TRUE,TRUE
+51896,"La imagen (ediciï¿½ï¿½ï¿½_n de otono/fin de aï¿½ï¿½ï¿½o 2012), paq./10",3.5,3.5,2,,TRUE,TRUE
 54581,Creme Lipstick Samplers: Amber Glow,1.25,1.25,2,,TRUE,TRUE
 55140,Creme Lipstick Samplers: Whipped Berries,1.25,1.25,2,Creme Lipstick Samplers,FALSE,TRUE
 54617,Creme Lipstick Samplers: Pink Passion,1.25,1.25,2,Creme Lipstick Samplers,FALSE,TRUE
@@ -4283,12 +4283,12 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 54822,True Dimensions Lipstick: Color Me Coral,18,9,1,True Dimensions Lipstick,FALSE,TRUE
 54828,True Dimensions Lipstick: Firecracker,18,9,1,True Dimensions Lipstick,FALSE,TRUE
 54831,True Dimensions Lipstick: Mystic Plum,18,9,1,True Dimensions Lipstick,FALSE,TRUE
-54825,True Dimensions Lipstick: Natural BeautÌÄå©,18,9,1,True Dimensions Lipstick,FALSE,TRUE
-54820,True Dimensions Lipstick: Pink ChÌÄå©rie,18,9,1,True Dimensions Lipstick,FALSE,TRUE
+54825,True Dimensions Lipstick: Natural Beautï¿½ï¿½ï¿½,18,9,1,True Dimensions Lipstick,FALSE,TRUE
+54820,True Dimensions Lipstick: Pink Chï¿½ï¿½ï¿½rie,18,9,1,True Dimensions Lipstick,FALSE,TRUE
 54830,True Dimensions Lipstick: Rosette,18,9,1,True Dimensions Lipstick,FALSE,TRUE
-54826,True Dimensions Lipstick: Sienne BrÌÄåÈlÌÄå©e,18,9,1,True Dimensions Lipstick,FALSE,TRUE
+54826,True Dimensions Lipstick: Sienne Brï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½e,18,9,1,True Dimensions Lipstick,FALSE,TRUE
 54829,True Dimensions Lipstick: Sizzling Red,18,9,1,True Dimensions Lipstick,FALSE,TRUE
-54832,True Dimensions Lipstick: Spice Ì¢‰âÂ‰ã¢nÌ¢‰âÂ‰ã¢ Nice,18,9,1,True Dimensions Lipstick,FALSE,TRUE
+54832,True Dimensions Lipstick: Spice Ì¢ï¿½ï¿½Â‰ï¿½nÌ¢ï¿½ï¿½Â‰ï¿½ Nice,18,9,1,True Dimensions Lipstick,FALSE,TRUE
 54821,True Dimensions Lipstick: Wild About Pink,18,9,1,True Dimensions Lipstick,FALSE,TRUE
 54132,Brush Collection,55,27.5,1,Other Cheek Products;Other Eye Products;Compacts/Brushes/Applicators/Bags,FALSE,TRUE
 53679,Brushes & Applicators: Cheek Brush,14,7,1,Other Cheek Products;Compacts/Brushes/Applicators/Bags,FALSE,TRUE
@@ -4300,9 +4300,9 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 54039,Brushes & Applicators: Mineral Foundation Brush,10,5,1,Compacts/Brushes/Applicators/Bags;Other Foundation Products,FALSE,TRUE
 53678,Brushes & Applicators: Powder Brush,16,8,1,Compacts/Brushes/Applicators/Bags,FALSE,TRUE
 55903,Brush Cleaner,10,5,1,Compacts/Brushes/Applicators/Bags,FALSE,TRUE
-61457,Botanical Effects 4 pc. Regimen Bundle - Formula 1 Ì¢‰âÂ‰ÛÏ Dry,58,29,1,Botanical Effects Skin Care,FALSE,TRUE
-61458,Botanical Effects 4 pc. Regimen Bundle Ì¢‰âÂ‰ÛÏ Formula 2 Ì¢‰âÂ‰ÛÏ Normal,58,29,1,Botanical Effects Skin Care,FALSE,TRUE
-61459,Botanical Effects 4 pc. Regimen Bundle Ì¢‰âÂ‰ÛÏ Formula 3 Ì¢‰âÂ‰ÛÏ Oily,58,29,1,Botanical Effects Skin Care,FALSE,TRUE
+61457,Botanical Effects 4 pc. Regimen Bundle - Formula 1 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Dry,58,29,1,Botanical Effects Skin Care,FALSE,TRUE
+61458,Botanical Effects 4 pc. Regimen Bundle Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Formula 2 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Normal,58,29,1,Botanical Effects Skin Care,FALSE,TRUE
+61459,Botanical Effects 4 pc. Regimen Bundle Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Formula 3 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Oily,58,29,1,Botanical Effects Skin Care,FALSE,TRUE
 45749,Great Deal: Beautiful Eyes,42,21,1,,TRUE,TRUE
 63843,Color 101 Collections: The Casual Look,81,40.5,1,,TRUE,TRUE
 63842,Color 101 Collections: The Special Celebration Look,71.5,35.75,1,,TRUE,TRUE
@@ -4313,21 +4313,21 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 60208,"50th Anniversary Large Paper Shopping Bag w/Tissue, pk./5",5,5,2,,TRUE,TRUE
 60209,"50th Anniversary Small Paper Shopping Bag w/Tissue, pk./5",2.5,2.5,2,,TRUE,TRUE
 51897,"The Look (Winter 2012 Issue), pk./10",3.5,3.5,2,,TRUE,TRUE
-51898,"La imagen (ediciÌÄå_n de invierno 2012), paq./10",3.5,3.5,2,,TRUE,TRUE
+51898,"La imagen (ediciï¿½ï¿½ï¿½_n de invierno 2012), paq./10",3.5,3.5,2,,TRUE,TRUE
 57006,"WINTER 2012 Gift With Purchase: Beauty Case, pk./5",20,20,2,,TRUE,TRUE
 057006-INDV,WINTER 2012 Gift With Purchase: Beauty Case,4,4,2,,TRUE,TRUE
 61017,TimeWise Targeted Action Eye Revitalizer,36,18,1,,TRUE,TRUE
 55590,Consultant Order Form (12/10/12 - 3/15/13),0.05,0.05,2,,TRUE,TRUE
 54850,True Dimensions Lipstick Samplers: Color Me Coral,1.25,1.25,2,"True Dimensions Lipstick Samplers, strip/6",FALSE,TRUE
-54854,True Dimensions Lipstick Samplers: Sienne BrÌÄåÈlÌÄå©e,1.25,1.25,2,"True Dimensions Lipstick Samplers, strip/6",FALSE,TRUE
+54854,True Dimensions Lipstick Samplers: Sienne Brï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½e,1.25,1.25,2,"True Dimensions Lipstick Samplers, strip/6",FALSE,TRUE
 54856,True Dimensions Lipstick Samplers: Firecracker,1.25,1.25,2,"True Dimensions Lipstick Samplers, strip/6",FALSE,TRUE
 54857,True Dimensions Lipstick Samplers: Sizzling Red,1.25,1.25,2,"True Dimensions Lipstick Samplers, strip/6",FALSE,TRUE
 54859,True Dimensions Lipstick Samplers: Mystic Plum,1.25,1.25,2,"True Dimensions Lipstick Samplers, strip/6",FALSE,TRUE
 54860,True Dimensions Lipstick Samplers: Spice 'n' Nice,1.25,1.25,2,"True Dimensions Lipstick Samplers, strip/6",FALSE,TRUE
-54853,True Dimensions Lipstick Samplers: Natural BeautÌÄå©,1.25,1.25,2,"True Dimensions Lipstick Samplers, strip/6",FALSE,TRUE
+54853,True Dimensions Lipstick Samplers: Natural Beautï¿½ï¿½ï¿½,1.25,1.25,2,"True Dimensions Lipstick Samplers, strip/6",FALSE,TRUE
 54849,True Dimensions Lipstick Samplers: Wild About Pink,1.25,1.25,2,"True Dimensions Lipstick Samplers, strip/6",FALSE,TRUE
 54858,True Dimensions Lipstick Samplers: Rosette,1.25,1.25,2,"True Dimensions Lipstick Samplers, strip/6",FALSE,TRUE
-54848,True Dimensions Lipstick Samplers: Pink ChÌÄå©rie,1.25,1.25,2,"True Dimensions Lipstick Samplers, strip/6",FALSE,TRUE
+54848,True Dimensions Lipstick Samplers: Pink Chï¿½ï¿½ï¿½rie,1.25,1.25,2,"True Dimensions Lipstick Samplers, strip/6",FALSE,TRUE
 54612,Creme Lipstick Samplers: Nutmeg,1.25,1.25,2,,TRUE,TRUE
 54624,Creme Lipstick Samplers: Red,1.25,1.25,2,Creme Lipstick Samplers,FALSE,TRUE
 54603,Creme Lipstick Samplers: Dusty Rose,1.25,1.25,2,Creme Lipstick Samplers,FALSE,TRUE
@@ -4337,9 +4337,9 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 54587,Creme Lipstick Samplers: Hibiscus,1.25,1.25,2,,TRUE,TRUE
 54634,Creme Lipstick Samplers: Toffee,1.25,1.25,2,Creme Lipstick Samplers,FALSE,TRUE
 54125,Beauty That Counts Compact Mini - Special Edition,16,8,1,,TRUE,TRUE
-46759,Shower CrÌÄå¬me: Thinking of You Moisture Rich,16,8,1,,TRUE,TRUE
+46759,Shower Crï¿½ï¿½ï¿½me: Thinking of You Moisture Rich,16,8,1,,TRUE,TRUE
 47495,Perfume Pendant: Thinking of You,16,8,1,,TRUE,TRUE
-65847,"Beauty Book With InstructorÌ¢‰âÂ‰ã¢s Guide, pk./10",2.5,2.5,2,,TRUE,TRUE
+65847,"Beauty Book With InstructorÌ¢ï¿½ï¿½Â‰ï¿½s Guide, pk./10",2.5,2.5,2,,TRUE,TRUE
 65848,"Libro de belleza guiadela instructora, paq./10",2.5,2.5,2,,TRUE,TRUE
 68942,"Independent Beauty Consultant Agreement, pk./5",0.5,0.5,2,,TRUE,TRUE
 68943,"Acuerdo de Consultora de Belleza Independiente, paq./5",0.5,0.5,2,,TRUE,TRUE
@@ -4359,10 +4359,10 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 25871,Cream Eye Color: Meadow Grass,14,7,1,Cream Eye Color,FALSE,TRUE
 25869,Cream Eye Color: Metallic Taupe,14,7,1,Cream Eye Color,FALSE,TRUE
 25872,Cream Eye Color: Violet Storm,14,7,1,Cream Eye Color,FALSE,TRUE
-60794,Makeup Finishing Spray by SkindinÌÄå_via,18,9,1,Makeup Finishing Spray by SkindinÌÄå_via,FALSE,TRUE
+60794,Makeup Finishing Spray by Skindinï¿½ï¿½ï¿½_via,18,9,1,Makeup Finishing Spray by Skindinï¿½ï¿½ï¿½_via,FALSE,TRUE
 60587,"Zen in Bloom Collection Sampler Card, pk./5",3,3,2,,TRUE,TRUE
 61646,"The Look (Spring 2013 issue), pk./10",3.5,3.5,2,,TRUE,TRUE
-61647,"La imagen (ediciÌÄå_n de primavera 2013), paq./10",3.5,3.5,2,,TRUE,TRUE
+61647,"La imagen (ediciï¿½ï¿½ï¿½_n de primavera 2013), paq./10",3.5,3.5,2,,TRUE,TRUE
 60445,Start Something Beautiful Magazine,5,5,2,,TRUE,TRUE
 60446,Comienza aigo hermosa,5,5,2,,TRUE,TRUE
 54563,Lash Love Lengthening Mascara: I Love Black,15,7.5,1,Mascara,FALSE,TRUE
@@ -4375,13 +4375,13 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 61648,"The Look (Summer 2013 issue), pk./10",3.5,3.5,2,,TRUE,TRUE
 63204,"Summer 2013 Translucent Loose Powder Mini Deluxe Sampler With Mini Brush, pk./5",10,10,2,,TRUE,TRUE
 063204-INDV,Summer 2013 Translucent Loose Powder Mini Deluxe Sampler With Mini Brush,2,2,2,,TRUE,TRUE
-54213,MenÌ¢‰âÂ‰ã¢s Fragrance: Travel Collection,36,18,1,,TRUE,TRUE
+54213,MenÌ¢ï¿½ï¿½Â‰ï¿½s Fragrance: Travel Collection,36,18,1,,TRUE,TRUE
 68885,Color 101 Collections: Polished & Put-Together,82,41,1,,TRUE,TRUE
 68886,Color 101 Collections: Casual Date,103,51.5,1,,TRUE,TRUE
 68883,Color 101 Collections: Expressive Evening,113.5,56.75,1,,TRUE,TRUE
 68884,Color 101 Collections: Ultra Summer,96.5,48.25,1,,TRUE,TRUE
 65232,"Fragrance Sampler Vials: Journey, pk/6",4,4,2,Fragrance Sampler Vials,FALSE,TRUE
-61649,"La imagen (ediciÌÄå_n verano 2013), paq./10",3.5,3.5,2,,TRUE,TRUE
+61649,"La imagen (ediciï¿½ï¿½ï¿½_n verano 2013), paq./10",3.5,3.5,2,,TRUE,TRUE
 58977,Clear Proof Acne System Set,45,22.5,1,Clear Proof Acne Skin Care;Oil Control,FALSE,TRUE
 61349,Clear Proof Clarifying Cleansing Gel,16,8,1,Clear Proof Acne Skin Care;Oil Control,FALSE,TRUE
 56743,Clear Proof Blemish Control Toner,15,7.5,1,Clear Proof Acne Skin Care;Oil Control,FALSE,TRUE
@@ -4421,16 +4421,16 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 71393,Color 101 Collections: Storybook Romance,108,54,1,,TRUE,TRUE
 71395,Color 101 Collections: Timeless Elegance,83,41.5,1,,TRUE,TRUE
 71392,Color 101 Collections: Evening Mystery,111,55.5,1,,TRUE,TRUE
-69964,"Beauty Book With InstructorÌ¢‰âÂ‰ã¢s Guide, pk./10",2.5,2.5,2,,TRUE,TRUE
+69964,"Beauty Book With InstructorÌ¢ï¿½ï¿½Â‰ï¿½s Guide, pk./10",2.5,2.5,2,,TRUE,TRUE
 69965,"Libro de belleza guiadela instructora, paq./10",2.5,2.5,2,,TRUE,TRUE
 69888,"Customer Profile, pk./25",1.25,1.25,2,,TRUE,TRUE
 69889,"Perfil de la clienta, paq./25",1.25,1.25,2,,TRUE,TRUE
 71603,"Steps to Success Career Path Brochure, pk./5",2,2,2,,TRUE,TRUE
-71604,"Folleto de la trayectoria profesional Camino al ÌÄå©xito, paq./5",2,2,2,,TRUE,TRUE
+71604,"Folleto de la trayectoria profesional Camino al ï¿½ï¿½ï¿½xito, paq./5",2,2,2,,TRUE,TRUE
 69878,"Ready, Set, Sell! Inventory Options for New Consultants Brochure, pk./5",2,2,2,,TRUE,TRUE
 69879,"Opciones de inventario para nuevas Consultoras, paq./5",2,2,2,,TRUE,TRUE
 61650,"The Look (Fall 2013/50th Anniversary Issue), pk./10",3.5,3.5,2,,TRUE,TRUE
-61651,"La imagen (ediciÌÄå_n del 50 Aniversario/otoÌÄå±o 2013), paq./10",3.5,3.5,2,,TRUE,TRUE
+61651,"La imagen (ediciï¿½ï¿½ï¿½_n del 50 Aniversario/otoï¿½ï¿½ï¿½o 2013), paq./10",3.5,3.5,2,,TRUE,TRUE
 65718,"Fall 2013 Gift With Purchase: Mini Replenishing Serum+C & Mini Microdermabrasion Set, pk./5",20,20,2,,TRUE,TRUE
 065718-INDV,Fall 2013 Gift With Purchase: Mini Replenishing Serum+C & Mini Microdermabrasion Set,4,4,2,,TRUE,TRUE
 54041,Brushes & Applicators: Cream Eye Color/Concealer Brush,10,5,1,Other Eye Products;Compacts/Brushes/Applicators/Bags,FALSE,TRUE
@@ -4457,7 +4457,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 65968,Consultant Order Form (8/16/2013 - 11/15/2013),0.05,0.05,2,,TRUE,TRUE
 72925,Gift Bundles: Green Goddess,35,17.5,1,,TRUE,TRUE
 72924,Gift Bundles: Purple Passion,35,17.5,1,,TRUE,TRUE
-72941,Gift Bundles: TimeWiseÌâå¨ Trio,110,55,1,,TRUE,TRUE
+72941,Gift Bundles: TimeWiseï¿½ï¿½ï¿½ Trio,110,55,1,,TRUE,TRUE
 72942,Gift Bundles: After Fiesta,67,33.5,1,,TRUE,TRUE
 72926,Gift Bundles: Viva Red!,67,33.5,1,,TRUE,TRUE
 72923,Gift Bundles: Plum Perfect,47,23.5,1,,TRUE,TRUE
@@ -4467,13 +4467,13 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 72933,Gift Bundles: Love Ur Eyes! (In Hazel),36,18,1,,TRUE,TRUE
 72932,Gift Bundles: Love Ur Eyes! (In Green),36,18,1,,TRUE,TRUE
 72931,Gift Bundles: Love Ur Eyes! (In Blue),36,18,1,,TRUE,TRUE
-72935,Holiday Duets Ì¢‰âÂ‰ÛÏ Warm & Wonderful,34,17,1,,TRUE,TRUE
-72936,Holiday Duets Ì¢‰âÂ‰ÛÏ Cool & Crisp,34,17,1,,TRUE,TRUE
+72935,Holiday Duets Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Warm & Wonderful,34,17,1,,TRUE,TRUE
+72936,Holiday Duets Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Cool & Crisp,34,17,1,,TRUE,TRUE
 72937,Gift Bundles: All Over Hydration Set,58,29,1,,TRUE,TRUE
 72929,Gift Bundles: Lasting Looks Collection,69,34.5,1,,TRUE,TRUE
 64682,TimeWise Liquid Foundation Samplers: Bronze 6,1,1,2,"TimeWise Liquid Foundation Samplers, strip/6",FALSE,TRUE
 68881,"Holiday Gifting Brochure, pk./10 (Available while supplies last)",2.25,2.25,2,,TRUE,TRUE
-68882,"Folleto regalo para fin de aÌÄå±o, paq./10 (Disponible hasta agotar existencias)",2.25,2.25,2,,TRUE,TRUE
+68882,"Folleto regalo para fin de aï¿½ï¿½ï¿½o, paq./10 (Disponible hasta agotar existencias)",2.25,2.25,2,,TRUE,TRUE
 64670,TimeWise Liquid Foundation Samplers: Beige 3,1,1,2,"TimeWise Liquid Foundation Samplers, strip/6",FALSE,TRUE
 68557,"Ultimate Mascara Samplers (Black), pk./6",2.75,2.75,2,Mascara Samplers,FALSE,TRUE
 63959,TimeWise Even Complexion Dark Spot Reducer,40,20,1,TimeWise Anti-Aging,FALSE,TRUE
@@ -4484,8 +4484,8 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 68246,Mineral Eye Color: Sparkling White,8,4,1,Mineral Eye Color,FALSE,TRUE
 66319,Skinvigorate Cleansing Brush,50,25,1,Compacts/Brushes/Applicators/Bags,TRUE,TRUE
 66328,"Skinvigorate Cleansing Brush Replacement Heads, pk./2",15,7.5,1,Compacts/Brushes/Applicators/Bags,FALSE,TRUE
-67474,Belara Midnight: Simply Alluring Body CrÌÄå¬me,18,9,1,,TRUE,TRUE
-67468,Belara Midnight: Simply Alluring Shower CrÌÄå¬me,18,9,1,,TRUE,TRUE
+67474,Belara Midnight: Simply Alluring Body Crï¿½ï¿½ï¿½me,18,9,1,,TRUE,TRUE
+67468,Belara Midnight: Simply Alluring Shower Crï¿½ï¿½ï¿½me,18,9,1,,TRUE,TRUE
 66491,At Play Eye Shadow: Just for Eyes,10,5,1,,TRUE,TRUE
 66503,At Play Lip Gloss: Just for Lips,10,5,1,,TRUE,TRUE
 72934,Gift Bundles: Sweet Touches,34,17,1,,TRUE,TRUE
@@ -4505,12 +4505,12 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 67218,"Fragrance Sampler Vials: Belara, pk/6",4,4,2,Fragrance Sampler Vials,FALSE,TRUE
 67222,"Fragrance Sampler Vials: Bella Belara, pk/6",4,4,2,Fragrance Sampler Vials,FALSE,TRUE
 61652,"The Look (Winter/Holiday 2013), pk./10",3.5,3.5,2,,TRUE,TRUE
-61653,"La imagen (invierno/fin de aÌÄå±o 2013), paq./10",3.5,3.5,2,,TRUE,TRUE
+61653,"La imagen (invierno/fin de aï¿½ï¿½ï¿½o 2013), paq./10",3.5,3.5,2,,TRUE,TRUE
 67533,"Fall 2014 Gift With Purchase: Travel-Size Fragrance-Free Satin Hands Pampering Set, pk./5",20,20,2,,TRUE,TRUE
 067533-INDV,Fall 2014 Gift With Purchase: Travel-Size Fragrance-Free Satin Hands Pampering Set,4,4,2,,TRUE,TRUE
-65969,Consultant Order Form (11/16/13 Ì¢‰âÂ‰ÛÏ 2/15/14),0.05,0.05,2,,TRUE,TRUE
+65969,Consultant Order Form (11/16/13 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 2/15/14),0.05,0.05,2,,TRUE,TRUE
 74598,"Independent Beauty Consultant Agreement (11/13 Version), pk./5",0.5,0.5,2,,TRUE,TRUE
-74599,"Acuerdo de Consultora de Belleza Independiente (VersiÌÄå_n 11/13), paq./5",0.5,0.5,2,,TRUE,TRUE
+74599,"Acuerdo de Consultora de Belleza Independiente (Versiï¿½ï¿½ï¿½_n 11/13), paq./5",0.5,0.5,2,,TRUE,TRUE
 36811,"TimeWise Age-Fighting Eye Cream Sampler, pk./1",0,0,2,,TRUE,TRUE
 35753,"Extra Emollient Night Cream Sampler, pk./1",0,0,2,,TRUE,TRUE
 71709,Fragrance-Free Satin Hands Set Sampler,0,0,2,,TRUE,TRUE
@@ -4544,17 +4544,17 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 69076,Bronzing Powder: Light-Medium,18,9,1,Bronzing Powder,FALSE,TRUE
 69077,Bronzing Powder: Medium-Dark,18,9,1,Bronzing Powder,FALSE,TRUE
 71868,Gel Eyeliner w/Expandable Brush: Jet Black,18,9,1,Eyeliner,FALSE,TRUE
-75324,"Beauty Book With InstructorÌ¢‰âÂ‰ã¢s Guide, pk./10",2.5,2.5,2,,TRUE,TRUE
+75324,"Beauty Book With InstructorÌ¢ï¿½ï¿½Â‰ï¿½s Guide, pk./10",2.5,2.5,2,,TRUE,TRUE
 75326,"Libro de belleza guiadela instructora, paq./10",2.5,2.5,2,,TRUE,TRUE
 75166,"Customer Profile, pk./25",1.25,1.25,2,Skin Care Class Supplies,FALSE,TRUE
 75167,"Perfil de la clienta, paq./25",1.25,1.25,2,Skin Care Class Supplies,FALSE,TRUE
-75168,Foundation Finder Tool (Includes ring) (bilingual/bilingÌÄå_e),6,6,2,,TRUE,TRUE
+75168,Foundation Finder Tool (Includes ring) (bilingual/bilingï¿½ï¿½ï¿½_e),6,6,2,,TRUE,TRUE
 76742,"Ready, Set, Sell! Inventory Options Brochure, pk./5",2,2,2,,TRUE,TRUE
 76743,"Opciones de inventario para nuevas Consultoras, paq./5",2,2,2,,TRUE,TRUE
 76746,"Independent Beauty Consultant Agreement (02/14 Version), pk./5",0.5,0.5,2,,TRUE,TRUE
-76747,"Acuerdo de Consultora de Belleza Independiente (VersiÌÄå_n 02/14), paq./5",0.5,0.5,2,,TRUE,TRUE
+76747,"Acuerdo de Consultora de Belleza Independiente (Versiï¿½ï¿½ï¿½_n 02/14), paq./5",0.5,0.5,2,,TRUE,TRUE
 71905,"The Look (Spring 2014), pk./10",3.5,3.5,2,,TRUE,TRUE
-71906,"La imagen (ediciÌÄå_n de primavera 2014), paq./10",3.5,3.5,2,,TRUE,TRUE
+71906,"La imagen (ediciï¿½ï¿½ï¿½_n de primavera 2014), paq./10",3.5,3.5,2,,TRUE,TRUE
 72082,"Spring 2014 Gift With Purchase: Mini Lash Love Mascara w/mini Oil-Free Makeup Remover, pk./5",20,20,2,,TRUE,TRUE
 072082-INDV,Spring 2014 Gift With Purchase: Mini Lash Love Mascara with mini Oil-Free Makeup Remover,4,4,2,,TRUE,TRUE
 68250,Mineral Eye Color: Ballerina Pink,8,4,1,Mineral Eye Color,FALSE,TRUE
@@ -4588,15 +4588,15 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 79734,Color 101 Collections: Wedding Celebration,36,18,1,,TRUE,TRUE
 74260,Mary Kay Satin Pillow Case,5,2.5,1,,TRUE,TRUE
 71907,"The Look (Summer 2014), pk./10",3.5,3.5,2,,TRUE,TRUE
-71908,"La imagen (ediciÌÄå_n de verano 2014), paq./10",3.5,3.5,2,,TRUE,TRUE
-73065,Date Book (July 2014 Ì¢‰âÂ‰ÛÏ Dec. 2015) bilingual / Agenda (Julio 2014 Ì¢‰âÂ‰ÛÏ Dic. 2015) bilingÌÄå_e,3,3,2,Business Supplies,FALSE,TRUE
+71908,"La imagen (ediciï¿½ï¿½ï¿½_n de verano 2014), paq./10",3.5,3.5,2,,TRUE,TRUE
+73065,Date Book (July 2014 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Dec. 2015) bilingual / Agenda (Julio 2014 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Dic. 2015) bilingï¿½ï¿½ï¿½_e,3,3,2,Business Supplies,FALSE,TRUE
 75987,Start Something Beautiful Magazine,5,5,2,Educational Materials,TRUE,TRUE
 76357,Revista Comienza algo hermoso,5,5,2,Educational Materials,FALSE,TRUE
-75412,Start Something Beautiful DVD (bilingual) / DVD Comienza algo hermoso (bilingÌÄå_e),5,5,2,Educational Materials;Educational/Team-Building MaterialsEducational/Team-Building Materials,FALSE,TRUE
+75412,Start Something Beautiful DVD (bilingual) / DVD Comienza algo hermoso (bilingï¿½ï¿½ï¿½_e),5,5,2,Educational Materials;Educational/Team-Building MaterialsEducational/Team-Building Materials,FALSE,TRUE
 77938,"Independent Beauty Consultant Agreement, pk./5",0.5,0.5,2,,TRUE,TRUE
 77939,"Acuerdo de Consultora de Belleza Independiente, paq./5",0.5,0.5,2,,TRUE,TRUE
 74669,"Ready, Set, Sell! Inventory Options for New Consultants Brochure, pk./5",2,2,2,,TRUE,TRUE
-74670,"Folleto En sus marcas, listas ÌâåÁy a vender! Opciones de inventario para nuevas Consultoras, paq./5",2,2,2,,TRUE,TRUE
+74670,"Folleto En sus marcas, listas ï¿½ï¿½ï¿½ï¿½y a vender! Opciones de inventario para nuevas Consultoras, paq./5",2,2,2,,TRUE,TRUE
 72315,"Summer 2014 Gift With Purchase: Mini Microdermabrasion Set and Mini Indulge Soothing Eye Gel, pk./5",20,20,2,,TRUE,TRUE
 072315-INDV,Summer 2014 Gift With Purchase: Mini Microdermabrasion Set and Mini Indulge Soothing Eye Gel,4,4,2,,TRUE,TRUE
 72682,Extra Emollient Night Cream,14,7,1,Customized Skin Care/Specific Needs;Moisturization,FALSE,TRUE
@@ -4613,7 +4613,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 72658,Day Solution Suncreen / Night Solution Samplers,2,2,2,TimeWise Samplers;Product Samples,FALSE,TRUE
 64608,Microdermabrasion Set Samplers,2,2,2,TimeWise Samplers;Product Samples,FALSE,TRUE
 72683,"Extra Emollient Night Cream, pk./12",6,6,2,Customized Skin Care Samplers;Product Samples,FALSE,TRUE
-72173,Consultant Order Form (5/16/14 Ì¢‰âÂ‰ÛÏ 8/15/14),0.05,0.05,2,,TRUE,TRUE
+72173,Consultant Order Form (5/16/14 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 8/15/14),0.05,0.05,2,,TRUE,TRUE
 64661,TimeWise Liquid Foundation Samplers: Ivory 2,1,1,2,"TimeWise Liquid Foundation Samplers, strip/6",FALSE,TRUE
 64674,TimeWise Liquid Foundation Samplers: Beige 6,1,1,2,"TimeWise Liquid Foundation Samplers, strip/6",FALSE,TRUE
 64662,TimeWise Liquid Foundation Samplers: Ivory 3,1,1,2,"TimeWise Liquid Foundation Samplers, strip/6",FALSE,TRUE
@@ -4655,11 +4655,11 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 80365,Holiday Bundle: Emerald Nights,49.5,24.75,1,,TRUE,TRUE
 80366,Holiday Bundle: Sapphire Nights,49.5,24.75,1,,TRUE,TRUE
 80367,Holiday Bundle: Silver Smoke,68,34,1,,TRUE,TRUE
-80368,Holiday Bundle: Party Ì¢‰âÂ‰ã¢til Dawn,67,33.5,1,,TRUE,TRUE
-80369,Holiday Bundle: Flash & Dash Ì¢‰âÂ‰ÛÏ Very Light,45,22.5,1,,TRUE,TRUE
-80370,Holiday Bundle: Flash & Dash Ì¢‰âÂ‰ÛÏ Light-to-Medium,45,22.5,1,,TRUE,TRUE
-80371,Holiday Bundle: Flash & Dash Ì¢‰âÂ‰ÛÏ Medium-to-Deep,45,22.5,1,,TRUE,TRUE
-80372,Holiday Bundle: Flash & Dash Ì¢‰âÂ‰ÛÏ Deep,45,22.5,1,,TRUE,TRUE
+80368,Holiday Bundle: Party Ì¢ï¿½ï¿½Â‰ï¿½til Dawn,67,33.5,1,,TRUE,TRUE
+80369,Holiday Bundle: Flash & Dash Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Very Light,45,22.5,1,,TRUE,TRUE
+80370,Holiday Bundle: Flash & Dash Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Light-to-Medium,45,22.5,1,,TRUE,TRUE
+80371,Holiday Bundle: Flash & Dash Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Medium-to-Deep,45,22.5,1,,TRUE,TRUE
+80372,Holiday Bundle: Flash & Dash Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Deep,45,22.5,1,,TRUE,TRUE
 80373,Holiday Bundle: Shine Busters,22,11,1,,TRUE,TRUE
 80374,Holiday Bundle: Get in Line!,40,20,1,,TRUE,TRUE
 80375,Holiday Bundle: TheBalmDotCom,40,20,1,,TRUE,TRUE
@@ -4674,16 +4674,16 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 75630,"Fragrance Sampler Vials: Thinking of You, pk/6",4,4,2,Fragrance Sampler Vials,FALSE,TRUE
 78397,"Fragrance Sampler Card: MK High Intensity Sport Cologne, pk./12",3,3,2,"Fragrance Sampler Card, pk./12;Fragrance Sampler Card",FALSE,TRUE
 71909,"The Look (Fall 2014), pk./10",3.5,3.5,2,,TRUE,TRUE
-71910,"La imagen (ediciÌÄå_n de otoÌÄå±o 2014), paq./10",3.5,3.5,2,,TRUE,TRUE
-81162,"Beauty Book With InstructorÌ¢‰âÂ‰ã¢s Guide, pk./10",2.5,2.5,2,Skin Care Class Supplies;Brochures,FALSE,TRUE
-81163,"Libro de belleza con GuÌÄå_a de la Instructora, paq./10",2.5,2.5,2,Skin Care Class Supplies;Brochures,FALSE,TRUE
+71910,"La imagen (ediciï¿½ï¿½ï¿½_n de otoï¿½ï¿½ï¿½o 2014), paq./10",3.5,3.5,2,,TRUE,TRUE
+81162,"Beauty Book With InstructorÌ¢ï¿½ï¿½Â‰ï¿½s Guide, pk./10",2.5,2.5,2,Skin Care Class Supplies;Brochures,FALSE,TRUE
+81163,"Libro de belleza con Guï¿½ï¿½ï¿½_a de la Instructora, paq./10",2.5,2.5,2,Skin Care Class Supplies;Brochures,FALSE,TRUE
 81777,"Ready, Set, Sell! Inventory Options for New Consultants Brochure, pk./5",2,2,2,,TRUE,TRUE
-81778,"Folleto En sus marcas, listas ÌâåÁy a vender! Opciones de inventario para nuevas Consultoras, paq./5",2,2,2,,TRUE,TRUE
+81778,"Folleto En sus marcas, listas ï¿½ï¿½ï¿½ï¿½y a vender! Opciones de inventario para nuevas Consultoras, paq./5",2,2,2,,TRUE,TRUE
 82056,"Steps to Success Career Path Brochure, pk./5",2,2,2,Team-Building Materials;Educational/Team-Building MaterialsEducational/Team-Building Materials,FALSE,TRUE
-82057,"Folleto de la trayectoria profesional Camino al ÌÄå©xito, paq./5",2,2,2,Team-Building Materials;Educational/Team-Building MaterialsEducational/Team-Building Materials,FALSE,TRUE
+82057,"Folleto de la trayectoria profesional Camino al ï¿½ï¿½ï¿½xito, paq./5",2,2,2,Team-Building Materials;Educational/Team-Building MaterialsEducational/Team-Building Materials,FALSE,TRUE
 75138,"Discover What You Love Campaign Large Plastic Shopping Bag, pk./50",5.5,5.5,2,Product Packaging,FALSE,TRUE
 75139,"Discover What You Love Campaign Small Plastic Shopping Bag, pk./100",4.5,4.5,2,Product Packaging,FALSE,TRUE
-72174,Consultant Order Form (8/16/14 Ì¢‰âÂ‰ÛÏ 11/15/14),0.05,0.05,2,,TRUE,TRUE
+72174,Consultant Order Form (8/16/14 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 11/15/14),0.05,0.05,2,,TRUE,TRUE
 64676,TimeWise Liquid Foundation Samplers: Beige 8,1,1,2,"TimeWise Liquid Foundation Samplers, strip/6",FALSE,TRUE
 64681,TimeWise Liquid Foundation Samplers: Bronze 5,1,1,2,"TimeWise Liquid Foundation Samplers, strip/6",FALSE,TRUE
 64673,TimeWise Liquid Foundation Samplers: Beige 5,1,1,2,"TimeWise Liquid Foundation Samplers, strip/6",FALSE,TRUE
@@ -4694,7 +4694,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 76750,Winter Wishes Fragrance Wand,20,10,1,,TRUE,TRUE
 77649,Hail to the Nails Mini Nail Lacquer Trio,15,7.5,1,,TRUE,TRUE
 80104,"Holiday Gifting Brochure, pk./10 (while supplies last)",2.25,2.25,2,,TRUE,TRUE
-80105,"Folleto Regalos de fin de aÌÄå±o, paq./10 (hasta agotar existencias)",2.25,2.25,2,,TRUE,TRUE
+80105,"Folleto Regalos de fin de aï¿½ï¿½ï¿½o, paq./10 (hasta agotar existencias)",2.25,2.25,2,,TRUE,TRUE
 64668,TimeWise Liquid Foundation Samplers: Beige 1,1,1,2,"TimeWise Liquid Foundation Samplers, strip/6;Timewise Liquid Foundation Samplers",FALSE,TRUE
 64660,TimeWise Liquid Foundation Samplers: Ivory 1,1,1,2,"TimeWise Liquid Foundation Samplers, strip/6;Timewise Liquid Foundation Samplers",FALSE,TRUE
 75084,Women's Fragrance: Thinking of Love Eau de Parfum,32,16,1,Fragrances,FALSE,TRUE
@@ -4719,31 +4719,31 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 48009,NouriShine Plus Lip Gloss Samplers: Sparkle Berry,1.25,1.25,2,NouriShine Plus Lip Gloss Samplers,FALSE,TRUE
 47993,NouriShine Plus Lip Gloss Samplers: Sun Blossoms,1.25,1.25,2,NouriShine Plus Lip Gloss Samplers,FALSE,TRUE
 71911,"The Look (Winter/Holiday 2014), pk./10",3.5,3.5,2,,TRUE,TRUE
-71912,"La imagen (ediciÌÄå_n de invierno/fin de aÌÄå±o 2014), paq./10",3.5,3.5,2,,TRUE,TRUE
+71912,"La imagen (ediciï¿½ï¿½ï¿½_n de invierno/fin de aï¿½ï¿½ï¿½o 2014), paq./10",3.5,3.5,2,,TRUE,TRUE
 83223,"Ready, Set, Sell! Brochure (Version 11/14), pk./5",2,2,2,Team-Building Materials,FALSE,TRUE
-83224,"Folleto En sus marcas, listas ÌâåÁy a vender! (VersiÌÄå_n 11/14), paq./5",2,2,2,Team-Building Materials,FALSE,TRUE
+83224,"Folleto En sus marcas, listas ï¿½ï¿½ï¿½ï¿½y a vender! (Versiï¿½ï¿½ï¿½_n 11/14), paq./5",2,2,2,Team-Building Materials,FALSE,TRUE
 74383,"Winter 2014 Gift With Purchase: Mini NouriShine Plus Lip Gloss Set, pk./5",20,20,2,,TRUE,TRUE
 074383-INDV,Winter 2014 Gift With Purchase: Mini NouriShine Plus Lip Gloss Set,4,4,2,,TRUE,TRUE
 81718,True Dim Sheer Lipstick: Arctic Apricot,18,9,1,True Dimensions Sheer Lipstick;New & Ltd Edition,FALSE,TRUE
 81722,True Dim Sheer Lipstick: Sparkling Rose,18,9,1,True Dimensions Sheer Lipstick;New & Ltd Edition,FALSE,TRUE
 81720,True Dim Sheer Lipstick: Posh Pink,18,9,1,True Dimensions Sheer Lipstick;New & Ltd Edition,FALSE,TRUE
 81723,True Dim Sheer Lipstick: Subtly You,18,9,1,True Dimensions Sheer Lipstick;New & Ltd Edition,FALSE,TRUE
-77866,EP CrÌÄå¬me-to-Powder: Ivory 1,18,9,1,Endless Performance CrÌÄå¬me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
-77874,EP CrÌÄå¬me-to-Powder: Beige 4,18,9,1,Endless Performance CrÌÄå¬me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
-77867,EP CrÌÄå¬me-to-Powder: Ivory 2,18,9,1,Endless Performance CrÌÄå¬me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
-77875,EP CrÌÄå¬me-to-Powder: Beige 5,18,9,1,Endless Performance CrÌÄå¬me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
-77868,EP CrÌÄå¬me-to-Powder: Ivory 3,18,9,1,Endless Performance CrÌÄå¬me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
-77876,EP CrÌÄå¬me-to-Powder: Beige 6,18,9,1,Endless Performance CrÌÄå¬me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
-77869,EP CrÌÄå¬me-to-Powder: Ivory 4,18,9,1,Endless Performance CrÌÄå¬me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
-77877,EP CrÌÄå¬me-to-Powder: Bronze 1,18,9,1,Endless Performance CrÌÄå¬me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
-77870,EP CrÌÄå¬me-to-Powder: Ivory 5,18,9,1,Endless Performance CrÌÄå¬me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
-77878,EP CrÌÄå¬me-to-Powder: Bronze 2,18,9,1,Endless Performance CrÌÄå¬me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
-77871,EP CrÌÄå¬me-to-Powder: Beige 1,18,9,1,Endless Performance CrÌÄå¬me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
-77879,EP CrÌÄå¬me-to-Powder: Bronze 3,18,9,1,Endless Performance CrÌÄå¬me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
-77872,EP CrÌÄå¬me-to-Powder: Beige 2,18,9,1,Endless Performance CrÌÄå¬me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
-77880,EP CrÌÄå¬me-to-Powder: Bronze 4,18,9,1,Endless Performance CrÌÄå¬me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
-77873,EP CrÌÄå¬me-to-Powder: Beige 3,18,9,1,Endless Performance CrÌÄå¬me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
-77881,EP CrÌÄå¬me-to-Powder: Bronze 5,18,9,1,Endless Performance CrÌÄå¬me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
+77866,EP CrÃ¨me-to-Powder: Ivory 1,18,9,1,Endless Performance Crï¿½ï¿½ï¿½me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
+77874,EP Crï¿½ï¿½ï¿½me-to-Powder: Beige 4,18,9,1,Endless Performance Crï¿½ï¿½ï¿½me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
+77867,EP Crï¿½ï¿½ï¿½me-to-Powder: Ivory 2,18,9,1,Endless Performance Crï¿½ï¿½ï¿½me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
+77875,EP Crï¿½ï¿½ï¿½me-to-Powder: Beige 5,18,9,1,Endless Performance Crï¿½ï¿½ï¿½me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
+77868,EP Crï¿½ï¿½ï¿½me-to-Powder: Ivory 3,18,9,1,Endless Performance Crï¿½ï¿½ï¿½me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
+77876,EP Crï¿½ï¿½ï¿½me-to-Powder: Beige 6,18,9,1,Endless Performance Crï¿½ï¿½ï¿½me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
+77869,EP Crï¿½ï¿½ï¿½me-to-Powder: Ivory 4,18,9,1,Endless Performance Crï¿½ï¿½ï¿½me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
+77877,EP Crï¿½ï¿½ï¿½me-to-Powder: Bronze 1,18,9,1,Endless Performance Crï¿½ï¿½ï¿½me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
+77870,EP Crï¿½ï¿½ï¿½me-to-Powder: Ivory 5,18,9,1,Endless Performance Crï¿½ï¿½ï¿½me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
+77878,EP Crï¿½ï¿½ï¿½me-to-Powder: Bronze 2,18,9,1,Endless Performance Crï¿½ï¿½ï¿½me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
+77871,EP Crï¿½ï¿½ï¿½me-to-Powder: Beige 1,18,9,1,Endless Performance Crï¿½ï¿½ï¿½me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
+77879,EP Crï¿½ï¿½ï¿½me-to-Powder: Bronze 3,18,9,1,Endless Performance Crï¿½ï¿½ï¿½me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
+77872,EP Crï¿½ï¿½ï¿½me-to-Powder: Beige 2,18,9,1,Endless Performance Crï¿½ï¿½ï¿½me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
+77880,EP Crï¿½ï¿½ï¿½me-to-Powder: Bronze 4,18,9,1,Endless Performance Crï¿½ï¿½ï¿½me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
+77873,EP Crï¿½ï¿½ï¿½me-to-Powder: Beige 3,18,9,1,Endless Performance Crï¿½ï¿½ï¿½me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
+77881,EP Crï¿½ï¿½ï¿½me-to-Powder: Bronze 5,18,9,1,Endless Performance Crï¿½ï¿½ï¿½me-to-Powder Foundation;New & Ltd Edition;Foundations,FALSE,TRUE
 82253,Eyeliner: MK Black,12,6,1,Eyeliner;New & Ltd Edition,FALSE,TRUE
 82250,Eyeliner: MK Deep Brown,12,6,1,Eyeliner;New & Ltd Edition,FALSE,TRUE
 82255,Eyeliner: MK Steely,12,6,1,Eyeliner;New & Ltd Edition,FALSE,TRUE
@@ -4762,14 +4762,14 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 83365,"Eyeliner Samplers: MK Deep Brown, pk/6",1,1,2,Section 2 - Promo;While Supplies Last;Eye Liner Samplers,FALSE,TRUE
 83332,Foundation Finder Tool / Localizador de bases,6,6,2,Section 2 - Promo,FALSE,TRUE
 80739,"The Look (Spring 2015), pk/10",3,3,2,Brochures;Section 2 - Promo,TRUE,TRUE
-80740,"La imagen (ediciÌÄå_n de primavera 2015), paq./10",3.5,3.5,2,Brochures;Section 2 - Promo,FALSE,TRUE
+80740,"La imagen (ediciï¿½ï¿½ï¿½_n de primavera 2015), paq./10",3.5,3.5,2,Brochures;Section 2 - Promo,FALSE,TRUE
 80241,Deluxe Mini: Oil-Free Eye Makeup Remover,2,2,2,Section 2 - Promo;Product Samples;Section 2: Promo,FALSE,TRUE
 75264,Even Complexion Mask,22,11,1,TimeWise Anti-Aging,FALSE,TRUE
 74680,Eye Primer,12,6,1,Eye Primer,FALSE,TRUE
 70574,Netted Body Sponge (White),1,1,2,Customer Gifts,FALSE,TRUE
-80826,Consultant Order Form (2/16/15 Ì¢‰âÂ‰ÛÏ 5/15/15),0.05,0.05,2,Business Supplies,FALSE,TRUE
+80826,Consultant Order Form (2/16/15 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ 5/15/15),0.05,0.05,2,Business Supplies,FALSE,TRUE
 85989,"Independent Beauty Consultant Agreement (2/15 Version), pk./5",0.5,0.5,2,Business Supplies,FALSE,TRUE
-85990,"Acuerdo de Consultora de Belleza Independiente (VersiÌÄå_n 2/15), paq./5",0.5,0.5,2,Business Supplies,FALSE,TRUE
+85990,"Acuerdo de Consultora de Belleza Independiente (Versiï¿½ï¿½ï¿½_n 2/15), paq./5",0.5,0.5,2,Business Supplies,FALSE,TRUE
 64664,TimeWise Liquid Foundation Samplers: Ivory 5,1,1,2,"TimeWise Liquid Foundation Samplers, strip/6;Timewise Liquid Foundation Samplers",FALSE,TRUE
 64678,TimeWise Liquid Foundation Samplers: Bronze 2,1,1,2,"TimeWise Liquid Foundation Samplers, strip/6;Timewise Liquid Foundation Samplers",FALSE,TRUE
 64684,TimeWise Liquid Foundation Samplers: Bronze 8,1,1,2,"TimeWise Liquid Foundation Samplers, strip/6;Timewise Liquid Foundation Samplers",FALSE,TRUE
@@ -4778,7 +4778,7 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 81938,At Play Baked Eye Trio: Out of the Blue,13,6.5,1,New & Ltd Edition;At Play,FALSE,TRUE
 81940,At Play Baked Eye Trio: Purple Eclipse,13,6.5,1,New & Ltd Edition;At Play,FALSE,TRUE
 81929,At Play Jelly Lip Gloss: Glow With It,10,5,1,New & Ltd Edition;At Play,FALSE,TRUE
-81931,At Play Jelly Lip Gloss: JamminÌ¢‰âÂ‰ã¢ Berry,10,5,1,New & Ltd Edition;At Play,FALSE,TRUE
+81931,At Play Jelly Lip Gloss: JamminÌ¢ï¿½ï¿½Â‰ï¿½ Berry,10,5,1,New & Ltd Edition;At Play,FALSE,TRUE
 84169,At Play Lip & Cheek Stick: Peach Pop,10,5,1,New & Ltd Edition;At Play,FALSE,TRUE
 84183,At Play Lip & Cheek Stick: Razzleberry,10,5,1,New & Ltd Edition;At Play,FALSE,TRUE
 84188,At Play Shadow & Liner: Caramellow,13,6.5,1,New & Ltd Edition;At Play,FALSE,TRUE
@@ -4791,11 +4791,11 @@ Number,Name,Retail,Wholesale,Section,Category,Discontinued,Taxable
 82924,NouriShine Plus Lip Gloss: Create Change,15,7.5,1,New & Ltd Edition,FALSE,TRUE
 82925,NouriShine Plus Lip Gloss: In Harmony,15,7.5,1,New & Ltd Edition,FALSE,TRUE
 82759,Purchase with Purchase: Skinvigorate Cleansing Brush Travel Bag for,5,2.5,1,New & Ltd Edition,FALSE,TRUE
-83153,Date Book (July 2015 Ì¢‰âÂ‰ÛÏ Dec. 2016) bilingual / Agenda (Julio 2015 Ì¢‰âÂ‰ÛÏ Dic. 2016) bilingÌÄå_e,3,3,2,Promotional Items,FALSE,TRUE
+83153,Date Book (July 2015 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Dec. 2016) bilingual / Agenda (Julio 2015 Ì¢ï¿½ï¿½Â‰ï¿½ï¿½ Dic. 2016) bilingï¿½ï¿½ï¿½_e,3,3,2,Promotional Items,FALSE,TRUE
 80741,"The Look (Summer 2015), pk/10",3,3,2,Promotional Items;Brochures,FALSE,TRUE
-80742,"La imagen (ediciÌÄå_n verano 2015), paq./10",3,3,2,Promotional Items,FALSE,TRUE
+80742,"La imagen (ediciï¿½ï¿½ï¿½_n verano 2015), paq./10",3,3,2,Promotional Items,FALSE,TRUE
 83157,Deluxe Mini: Lash Love Mascara - I Love black,2,2,2,Promotional Items;Section 2: Promo,FALSE,TRUE
 85394,Start Something Beautiful Magazine,5,5,2,Educational/Team-Building MaterialsEducational/Team-Building Materials,FALSE,TRUE
 85395,Revista Comienza algo hermoso,5,5,2,Educational/Team-Building MaterialsEducational/Team-Building Materials,FALSE,TRUE
 90791,"Ready, Set, Sell! Inventory Options for New Consultants Brochure (Version 5/15), pk./5",2,2,2,Educational/Team-Building MaterialsEducational/Team-Building Materials,FALSE,TRUE
-90792,"Folleto En sus marcas, listas ÌâåÁy a vender! Opciones de inventario para nuevas Consultoras (VersiÌÄå_n 5/15), paq./5",2,2,2,Educational/Team-Building MaterialsEducational/Team-Building Materials,FALSE,TRUE
+90792,"Folleto En sus marcas, listas ï¿½ï¿½ï¿½ï¿½y a vender! Opciones de inventario para nuevas Consultoras (Versiï¿½ï¿½ï¿½_n 5/15), paq./5",2,2,2,Educational/Team-Building MaterialsEducational/Team-Building Materials,FALSE,TRUE

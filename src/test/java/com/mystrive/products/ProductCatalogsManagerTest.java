@@ -42,6 +42,12 @@ public class ProductCatalogsManagerTest {
         ProductCatalog catalog = manager.getProductCatalog(CompanyCatalog.MaryKay.KEY, CompanyCatalog.MaryKay.USA);
         assertNotNull("Could not find catalog.", catalog);
         assertTrue("Not enough products were found", catalog.getProducts().size() > 100);
+
+        int row = 0;
+        for (Product product : catalog.getProducts()) {
+            row++;
+            assertNotNull("Found null product entry at row " + row + "!", product);
+        }
     }
 
     @Test
